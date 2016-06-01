@@ -1,0 +1,1175 @@
+HEADER	PATH	DATATYPE
+99999	\Public Studies\NHANES\questionnaire\pharmaceutical\99999\	T
+ACETAMINOPHEN__CODEINE	\Public Studies\NHANES\questionnaire\pharmaceutical\ACETAMINOPHEN__CODEINE\	T
+ACETAMINOPHEN__CODEINE_PHOSPHATE	\Public Studies\NHANES\questionnaire\pharmaceutical\ACETAMINOPHEN__CODEINE_PHOSPHATE\	N
+ACETAMINOPHEN__HYDROCODONE	\Public Studies\NHANES\questionnaire\pharmaceutical\ACETAMINOPHEN__HYDROCODONE\	T
+ACETAMINOPHEN__HYDROCODONE_BITARTRATE	\Public Studies\NHANES\questionnaire\pharmaceutical\ACETAMINOPHEN__HYDROCODONE_BITARTRATE\	N
+ACETAMINOPHEN__OXYCODONE	\Public Studies\NHANES\questionnaire\pharmaceutical\ACETAMINOPHEN__OXYCODONE\	T
+ACETAMINOPHEN__OXYCODONE_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\ACETAMINOPHEN__OXYCODONE_HYDROCHLORIDE\	T
+ACETAMINOPHEN__PROPOXYPHENE	\Public Studies\NHANES\questionnaire\pharmaceutical\ACETAMINOPHEN__PROPOXYPHENE\	T
+ACETAMINOPHEN__PROPOXYPHENE_NAPSYLATE	\Public Studies\NHANES\questionnaire\pharmaceutical\ACETAMINOPHEN__PROPOXYPHENE_NAPSYLATE\	N
+AGE	\Public Studies\NHANES\demographics\AGE\	N
+age_started_birth_control	\Public Studies\NHANES\questionnaire\pharmaceutical\age_started_birth_control\	N
+age_stopped_birth_control	\Public Studies\NHANES\questionnaire\pharmaceutical\age_stopped_birth_control\	N
+ALANINE_mg	\Public Studies\NHANES\questionnaire\supplement use\ALANINE_mg\	N
+ALBUTEROL	\Public Studies\NHANES\questionnaire\pharmaceutical\ALBUTEROL\	N
+ALBUTEROL__IPRATROPIUM	\Public Studies\NHANES\questionnaire\pharmaceutical\ALBUTEROL__IPRATROPIUM\	T
+ALCOHOL_PERCENT	\Public Studies\NHANES\questionnaire\supplement use\ALCOHOL_PERCENT\	N
+ALENDRONATE	\Public Studies\NHANES\questionnaire\pharmaceutical\ALENDRONATE\	T
+ALENDRONATE_SODIUM	\Public Studies\NHANES\questionnaire\pharmaceutical\ALENDRONATE_SODIUM\	N
+ALLOPURINOL	\Public Studies\NHANES\questionnaire\pharmaceutical\ALLOPURINOL\	N
+ALPHA_TOCOPHEROL_IU	\Public Studies\NHANES\questionnaire\supplement use\ALPHA_TOCOPHEROL_IU\	T
+ALPHA_TOCOPHEROL_mg	\Public Studies\NHANES\questionnaire\supplement use\ALPHA_TOCOPHEROL_mg\	T
+ALPHA_TOCOPHEROL_NA	\Public Studies\NHANES\questionnaire\supplement use\ALPHA_TOCOPHEROL_NA\	N
+ALPRAZOLAM	\Public Studies\NHANES\questionnaire\pharmaceutical\ALPRAZOLAM\	N
+AMITRIPTYLINE	\Public Studies\NHANES\questionnaire\pharmaceutical\AMITRIPTYLINE\	T
+AMITRIPTYLINE_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\AMITRIPTYLINE_HYDROCHLORIDE\	N
+AMLODIPINE	\Public Studies\NHANES\questionnaire\pharmaceutical\AMLODIPINE\	T
+AMLODIPINE__BENAZEPRIL	\Public Studies\NHANES\questionnaire\pharmaceutical\AMLODIPINE__BENAZEPRIL\	T
+AMLODIPINE_BESYLATE	\Public Studies\NHANES\questionnaire\pharmaceutical\AMLODIPINE_BESYLATE\	N
+AMOXICILLIN	\Public Studies\NHANES\questionnaire\pharmaceutical\AMOXICILLIN\	N
+AMOXICILLIN__CLAVULANATE	\Public Studies\NHANES\questionnaire\pharmaceutical\AMOXICILLIN__CLAVULANATE\	T
+AMOXICILLIN_TRIHYDRATE__CLAVULANATE_POTASSIUM	\Public Studies\NHANES\questionnaire\pharmaceutical\AMOXICILLIN_TRIHYDRATE__CLAVULANATE_POTASSIUM\	N
+AMPHETAMINE__DEXTROAMPHETAMINE	\Public Studies\NHANES\questionnaire\pharmaceutical\AMPHETAMINE__DEXTROAMPHETAMINE\	T
+AMPHETAMINE_ASPARTATE	\Public Studies\NHANES\questionnaire\pharmaceutical\AMPHETAMINE_ASPARTATE__AMPHETAMINE_SULFATE__DEXTROAMPHETAMINE_SACCHARATE__DEXTROAMPHETAMINE_SULFATE\	T
+ANTIBIOTIC_UNSPECIFIED	\Public Studies\NHANES\questionnaire\pharmaceutical\ANTIBIOTIC_UNSPECIFIED\	N
+any_cad	\Public Studies\NHANES\questionnaire\disease\any_cad\	N
+any_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\Any cancer or malignancy?\	N
+any_chronic_disease	\Public Studies\NHANES\questionnaire\disease\any_chronic_disease\	N
+any_diabetes	\Public Studies\NHANES\questionnaire\disease\Any Diabetes (FBG >= 126 mg/dL or self-report)\	N
+any_family_cad	\Public Studies\NHANES\questionnaire\disease\Any family with heart attack or angina?\	N
+any_ht	\Public Studies\NHANES\questionnaire\disease\Any Hypertension? (BP >= 139/90 or self report)\	N
+anyone_to_help_social	\Public Studies\NHANES\questionnaire\social support\anyone_to_help_social\	N
+area	\Public Studies\NHANES\demographics\area\	T
+ARGININE_gm	\Public Studies\NHANES\questionnaire\supplement use\ARGININE_gm\	T
+ARGININE_mg	\Public Studies\NHANES\questionnaire\supplement use\ARGININE_mg\	N
+ASPIRIN	\Public Studies\NHANES\questionnaire\pharmaceutical\ASPIRIN\	N
+ATENOLOL	\Public Studies\NHANES\questionnaire\pharmaceutical\ATENOLOL\	N
+ATORVASTATIN	\Public Studies\NHANES\questionnaire\pharmaceutical\ATORVASTATIN\	T
+ATORVASTATIN_CALCIUM	\Public Studies\NHANES\questionnaire\pharmaceutical\ATORVASTATIN_CALCIUM\	N
+AZITHROMYCIN	\Public Studies\NHANES\questionnaire\pharmaceutical\AZITHROMYCIN\	T
+AZITHROMYCIN_DIHYDRATE	\Public Studies\NHANES\questionnaire\pharmaceutical\AZITHROMYCIN_DIHYDRATE\	N
+BECLOMETHASONE_DIPROPIONATE	\Public Studies\NHANES\questionnaire\pharmaceutical\BECLOMETHASONE_DIPROPIONATE\	N
+BENAZEPRIL	\Public Studies\NHANES\questionnaire\pharmaceutical\BENAZEPRIL\	T
+BENAZEPRIL_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\BENAZEPRIL_HYDROCHLORIDE\	N
+BETA_CAROTENE__	\Public Studies\NHANES\questionnaire\supplement use\BETA_CAROTENE__\	T
+BETA_CAROTENE_IU	\Public Studies\NHANES\questionnaire\supplement use\BETA_CAROTENE_IU\	N
+BETA_CAROTENE_mcg	\Public Studies\NHANES\questionnaire\supplement use\BETA_CAROTENE_mcg\	N
+BETA_CAROTENE_mg	\Public Studies\NHANES\questionnaire\supplement use\BETA_CAROTENE_mg\	N
+BETA_CAROTENE_Unknown	\Public Studies\NHANES\questionnaire\supplement use\BETA_CAROTENE_Unknown\	T
+bladder_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\bladder_cancer_self_report\	N
+blood_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\blood_cancer_self_report\	N
+BMXBMI	\Public Studies\NHANES\examination\body measures\Body Mass Index (kg/m**2)\	N
+BMXCALF	\Public Studies\NHANES\examination\body measures\Maximal Calf Circumference (cm)\	N
+BMXHEAD	\Public Studies\NHANES\examination\body measures\Head Circumference (cm)\	N
+BMXHT	\Public Studies\NHANES\examination\body measures\Standing Height (cm)\	N
+BMXLEG	\Public Studies\NHANES\examination\body measures\Upper Leg Length (cm)\	N
+BMXRECUM	\Public Studies\NHANES\examination\body measures\Recumbent Length (cm)\	N
+BMXSUB	\Public Studies\NHANES\examination\body measures\Subscapular Skinfold (mm)\	N
+BMXTHICR	\Public Studies\NHANES\examination\body measures\Thigh Circumference (cm)\	N
+BMXTRI	\Public Studies\NHANES\examination\body measures\Triceps Skinfold (mm)\	N
+BMXWAIST	\Public Studies\NHANES\examination\body measures\Waist Circumference (cm)\	N
+BMXWT	\Public Studies\NHANES\examination\body measures\Weight (kg)\	N
+bone_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\bone_cancer_self_report\	N
+BPXCHR	\Public Studies\NHANES\examination\blood pressure\60 sec HR (30 sec HR * 2)\	N
+BPXPLS	\Public Studies\NHANES\examination\blood pressure\60 sec. pulse (30 sec. pulse * 2):\	N
+brain_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\brain_cancer_self_report\	N
+breast_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\breast_cancer_self_report\	N
+BUDESONIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\BUDESONIDE\	T
+BUPROPION	\Public Studies\NHANES\questionnaire\pharmaceutical\BUPROPION\	T
+BUPROPION_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\BUPROPION_HYDROCHLORIDE\	N
+cad	\Public Studies\NHANES\questionnaire\disease\Any CAD (self report)\	N
+CAFFEINE_mg	\Public Studies\NHANES\questionnaire\supplement use\CAFFEINE_mg\	N
+CALCIUM_mg	\Public Studies\NHANES\questionnaire\supplement use\CALCIUM_mg\	N
+CALCIUM_PPM	\Public Studies\NHANES\questionnaire\supplement use\CALCIUM_PPM\	N
+CALCIUM_Trace	\Public Studies\NHANES\questionnaire\supplement use\CALCIUM_Trace\	T
+CALCIUM_Unknown	\Public Studies\NHANES\questionnaire\supplement use\CALCIUM_Unknown\	T
+CAPTOPRIL	\Public Studies\NHANES\questionnaire\pharmaceutical\CAPTOPRIL\	N
+CARVEDILOL	\Public Studies\NHANES\questionnaire\pharmaceutical\CARVEDILOL\	T
+CELECOXIB	\Public Studies\NHANES\questionnaire\pharmaceutical\CELECOXIB\	N
+CEPHALEXIN	\Public Studies\NHANES\questionnaire\pharmaceutical\CEPHALEXIN\	N
+cervix_cacner_self_report	\Public Studies\NHANES\questionnaire\disease\cervix_cacner_self_report\	N
+CETIRIZINE	\Public Studies\NHANES\questionnaire\pharmaceutical\CETIRIZINE\	T
+CETIRIZINE_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\CETIRIZINE_HYDROCHLORIDE\	N
+CFDFINSH	\Public Studies\NHANES\questionnaire\cognitive functioning\Exercises Finished\	N
+CFDRIGHT	\Public Studies\NHANES\questionnaire\cognitive functioning\Exercises Correct\	N
+CHOLESTEROL_mg	\Public Studies\NHANES\questionnaire\supplement use\CHOLESTEROL_mg\	N
+chronic_disease_count	\Public Studies\NHANES\questionnaire\disease\chronic_disease_count\	N
+cigarette_smoking	\Public Studies\NHANES\questionnaire\smoking behavior\Current Cigarette Smoker?\	N
+CIMETIDINE_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\CIMETIDINE_HYDROCHLORIDE\	N
+CITALOPRAM	\Public Studies\NHANES\questionnaire\pharmaceutical\CITALOPRAM\	T
+CITALOPRAM_HYDROBROMIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\CITALOPRAM_HYDROBROMIDE\	T
+CLARITHROMYCIN	\Public Studies\NHANES\questionnaire\pharmaceutical\CLARITHROMYCIN\	N
+CLONAZEPAM	\Public Studies\NHANES\questionnaire\pharmaceutical\CLONAZEPAM\	T
+CLONIDINE	\Public Studies\NHANES\questionnaire\pharmaceutical\CLONIDINE\	N
+CLOPIDOGREL	\Public Studies\NHANES\questionnaire\pharmaceutical\CLOPIDOGREL\	T
+CLOPIDOGREL_BISULFATE	\Public Studies\NHANES\questionnaire\pharmaceutical\CLOPIDOGREL_BISULFATE\	T
+colon_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\colon_cancer_self_report\	N
+community_supply	\Public Studies\NHANES\questionnaire\food component recall\Community Water Supply\	T
+CONJUGATED_ESTROGENS	\Public Studies\NHANES\questionnaire\pharmaceutical\CONJUGATED_ESTROGENS\	T
+COPPER_mg	\Public Studies\NHANES\questionnaire\supplement use\COPPER_mg\	N
+COPPER_Trace	\Public Studies\NHANES\questionnaire\supplement use\COPPER_Trace\	T
+COPPER_Unknown	\Public Studies\NHANES\questionnaire\supplement use\COPPER_Unknown\	T
+CROMOLYN_SODIUM	\Public Studies\NHANES\questionnaire\pharmaceutical\CROMOLYN_SODIUM\	N
+current_asthma	\Public Studies\NHANES\questionnaire\disease\Current asthma?\	N
+current_loud_noise	\Public Studies\NHANES\questionnaire\occupation\current_loud_noise\	N
+current_past_smoking	\Public Studies\NHANES\questionnaire\smoking behavior\Current or Past Cigarette Smoker?\	N
+CVDESVO2	\Public Studies\NHANES\examination\physical fitness\Estimated VO2max (ml/kg/min)\	N
+CVDR1DI	\Public Studies\NHANES\examination\physical fitness\Recovery 1 diastolic BP (mm Hg)\	N
+CVDR1HR	\Public Studies\NHANES\examination\physical fitness\Recovery 1 heart rate (per min)\	N
+CVDR1SY	\Public Studies\NHANES\examination\physical fitness\Recovery 1 systolic BP (mm Hg)\	N
+CVDR2DI	\Public Studies\NHANES\examination\physical fitness\Recovery 2 diastolic BP (mm Hg)\	N
+CVDR2HR	\Public Studies\NHANES\examination\physical fitness\Recovery 2 heart rate (per min)\	N
+CVDR2SY	\Public Studies\NHANES\examination\physical fitness\Recovery 2 systolic BP (mm Hg)\	N
+CVDS1DI	\Public Studies\NHANES\examination\physical fitness\Stage 1 diastolic BP (mm Hg)\	N
+CVDS1HR	\Public Studies\NHANES\examination\physical fitness\Stage 1 heart rate (per min)\	N
+CVDS1SY	\Public Studies\NHANES\examination\physical fitness\Stage 1 systolic BP (mm Hg)\	N
+CVDS2DI	\Public Studies\NHANES\examination\physical fitness\Stage 2 diastolic BP (mm Hg)\	N
+CVDS2HR	\Public Studies\NHANES\examination\physical fitness\Stage 2 heart rate (per min)\	N
+CVDS2SY	\Public Studies\NHANES\examination\physical fitness\Stage 2 systolic BP (mm Hg)\	N
+CVDVOMAX	\Public Studies\NHANES\examination\physical fitness\Predicted VO2max (ml/kg/min)\	N
+CYCLOBENZAPRINE	\Public Studies\NHANES\questionnaire\pharmaceutical\CYCLOBENZAPRINE\	T
+CYCLOBENZAPRINE_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\CYCLOBENZAPRINE_HYDROCHLORIDE\	N
+CYSTINE_mg	\Public Studies\NHANES\questionnaire\supplement use\CYSTINE_mg\	N
+DBD100	\Public Studies\NHANES\questionnaire\food component recall\How often add salt to food at table\	T
+DBQ095	\Public Studies\NHANES\questionnaire\food component recall\Type of salt used at table\	T
+DED038Q	\Public Studies\NHANES\questionnaire\sun exposure\# of times in past yr you had a sunburn\	T
+DESLORATADINE	\Public Studies\NHANES\questionnaire\pharmaceutical\DESLORATADINE\	T
+DIAZEPAM	\Public Studies\NHANES\questionnaire\pharmaceutical\DIAZEPAM\	N
+DIETARY_FIBER_mg	\Public Studies\NHANES\questionnaire\supplement use\DIETARY_FIBER_mg\	T
+DIGOXIN	\Public Studies\NHANES\questionnaire\pharmaceutical\DIGOXIN\	N
+DILTIAZEM	\Public Studies\NHANES\questionnaire\pharmaceutical\DILTIAZEM\	T
+DILTIAZEM_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\DILTIAZEM_HYDROCHLORIDE\	N
+DIVALPROEX_SODIUM	\Public Studies\NHANES\questionnaire\pharmaceutical\DIVALPROEX_SODIUM\	N
+DMDBORN	\Public Studies\NHANES\demographics\DMDBORN\	N
+DMDMARTL	\Public Studies\NHANES\demographics\DMDMARTL\	N
+DOXAZOSIN	\Public Studies\NHANES\questionnaire\pharmaceutical\DOXAZOSIN\	T
+DOXAZOSIN_MESYLATE	\Public Studies\NHANES\questionnaire\pharmaceutical\DOXAZOSIN_MESYLATE\	N
+DR1_320	\Public Studies\NHANES\questionnaire\food component recall\Total plain water drank yesterday (gm)\	T
+DR1_330	\Public Studies\NHANES\questionnaire\food component recall\Total tap water drank yesterday (gm)\	T
+DR1_330Z	\Public Studies\NHANES\questionnaire\food component recall\Total tap water drank yesterday (gm)\	T
+DR1BWATR	\Public Studies\NHANES\questionnaire\food component recall\Total bottled water drank yesterday (gm)\	T
+DR1CWATR	\Public Studies\NHANES\questionnaire\food component recall\Plain carbonated water (gm)\	T
+DR1TACAR	\Public Studies\NHANES\questionnaire\food component recall\Alpha-carotene (mcg)\	T
+DR1TALCO	\Public Studies\NHANES\questionnaire\food component recall\Alcohol (gm)\	N
+DR1TATOA	\Public Studies\NHANES\questionnaire\food component recall\Added alpha-tocopherol (Vitamin E) (mg)\	T
+DR1TATOC	\Public Studies\NHANES\questionnaire\food component recall\Vitamin E as alpha-tocopherol (mg)\	T
+DR1TB12A	\Public Studies\NHANES\questionnaire\food component recall\Added vitamin B12 (mcg)\	T
+DR1TBCAR	\Public Studies\NHANES\questionnaire\food component recall\Beta-carotene (mcg)\	T
+DR1TCAFF	\Public Studies\NHANES\questionnaire\food component recall\Caffeine (mg)\	N
+DR1TCALC	\Public Studies\NHANES\questionnaire\food component recall\Calcium (mg)\	N
+DR1TCARB	\Public Studies\NHANES\questionnaire\food component recall\Carbohydrate (gm)\	N
+DR1TCARO	\Public Studies\NHANES\questionnaire\food component recall\Carotene\	N
+DR1TCHL	\Public Studies\NHANES\questionnaire\food component recall\Total choline (mg)\	T
+DR1TCHOL	\Public Studies\NHANES\questionnaire\food component recall\Cholesterol (mg)\	N
+DR1TCOPP	\Public Studies\NHANES\questionnaire\food component recall\Copper (mg)\	N
+DR1TCRYP	\Public Studies\NHANES\questionnaire\food component recall\Beta-cryptoxanthin (mcg)\	T
+DR1TFA	\Public Studies\NHANES\questionnaire\food component recall\Folic acid (mcg)\	T
+DR1TFDFE	\Public Studies\NHANES\questionnaire\food component recall\Folate, DFE (mcg)\	T
+DR1TFF	\Public Studies\NHANES\questionnaire\food component recall\Food folate (mcg)\	T
+DR1TFIBE	\Public Studies\NHANES\questionnaire\food component recall\Dietary fiber (gm)\	N
+DR1TIRON	\Public Studies\NHANES\questionnaire\food component recall\Iron (mg)\	N
+DR1TKCAL	\Public Studies\NHANES\questionnaire\food component recall\Energy (kcal)\	N
+DR1TLYCO	\Public Studies\NHANES\questionnaire\food component recall\Lycopene (mcg)\	T
+DR1TLZ	\Public Studies\NHANES\questionnaire\food component recall\Lutein \ zeaxanthin (mcg)\	T
+DR1TM161	\Public Studies\NHANES\questionnaire\food component recall\MFA 16:1 (Hexadecenoic) (gm)\	N
+DR1TM181	\Public Studies\NHANES\questionnaire\food component recall\MFA 18:1 (Octadecenoic) (gm)\	N
+DR1TM201	\Public Studies\NHANES\questionnaire\food component recall\MFA 20:1 (Eicosenoic) (gm)\	N
+DR1TM221	\Public Studies\NHANES\questionnaire\food component recall\MFA 22:1 (Docosenoic) (gm)\	N
+DR1TMAGN	\Public Studies\NHANES\questionnaire\food component recall\Magnesium (mg)\	N
+DR1TMFAT	\Public Studies\NHANES\questionnaire\food component recall\Total monounsaturated fatty acids (gm)\	N
+DR1TMOIS	\Public Studies\NHANES\questionnaire\food component recall\Moisture (gm)\	T
+DR1TNIAC	\Public Studies\NHANES\questionnaire\food component recall\Niacin (mg)\	N
+DR1TP182	\Public Studies\NHANES\questionnaire\food component recall\PFA 18:2 (Octadecadienoic) (gm)\	N
+DR1TP183	\Public Studies\NHANES\questionnaire\food component recall\PFA 18:3 (Octadecatrienoic) (gm)\	N
+DR1TP184	\Public Studies\NHANES\questionnaire\food component recall\PFA 18:4 (Octadecatetraenoic) (gm)\	N
+DR1TP204	\Public Studies\NHANES\questionnaire\food component recall\PFA 20:4 (Eicosatetraenoic) (gm)\	N
+DR1TP205	\Public Studies\NHANES\questionnaire\food component recall\PFA 20:5 (Eicosapentaenoic) (gm)\	N
+DR1TP225	\Public Studies\NHANES\questionnaire\food component recall\PFA 22:5 (Docosapentaenoic) (gm)\	N
+DR1TP226	\Public Studies\NHANES\questionnaire\food component recall\PFA 22:6 (Docosahexaenoic) (gm)\	N
+DR1TPFAT	\Public Studies\NHANES\questionnaire\food component recall\Total polyunsaturated fatty acids (gm)\	N
+DR1TPHOS	\Public Studies\NHANES\questionnaire\food component recall\Phosphorus (mg)\	N
+DR1TPOTA	\Public Studies\NHANES\questionnaire\food component recall\Potassium (mg)\	N
+DR1TPROT	\Public Studies\NHANES\questionnaire\food component recall\Protein (gm)\	N
+DR1TRET	\Public Studies\NHANES\questionnaire\food component recall\Retinol (mcg)\	T
+DR1TS040	\Public Studies\NHANES\questionnaire\food component recall\SFA 4:0 (Butanoic) (gm)\	N
+DR1TS060	\Public Studies\NHANES\questionnaire\food component recall\SFA 6:0 (Hexanoic) (gm)\	N
+DR1TS080	\Public Studies\NHANES\questionnaire\food component recall\SFA 8:0 (Octanoic) (gm)\	N
+DR1TS100	\Public Studies\NHANES\questionnaire\food component recall\SFA 10:0 (Decanoic) (gm)\	N
+DR1TS120	\Public Studies\NHANES\questionnaire\food component recall\SFA 12:0 (Dodecanoic) (gm)\	N
+DR1TS140	\Public Studies\NHANES\questionnaire\food component recall\SFA 14:0 (Tetradecanoic) (gm)\	N
+DR1TS160	\Public Studies\NHANES\questionnaire\food component recall\SFA 16:0 (Hexadecanoic) (gm)\	N
+DR1TS180	\Public Studies\NHANES\questionnaire\food component recall\SFA 18:0 (Octadecanoic) (gm)\	N
+DR1TSELE	\Public Studies\NHANES\questionnaire\food component recall\Selenium (mcg)\	N
+DR1TSFAT	\Public Studies\NHANES\questionnaire\food component recall\Total saturated fatty acids (gm)\	N
+DR1TSODI	\Public Studies\NHANES\questionnaire\food component recall\Sodium (mg)\	T
+DR1TSUGR	\Public Studies\NHANES\questionnaire\food component recall\Total sugars (gm)\	T
+DR1TTFAT	\Public Studies\NHANES\questionnaire\food component recall\Total fat (gm)\	N
+DR1TTHEO	\Public Studies\NHANES\questionnaire\food component recall\Theobromine (mg)\	N
+DR1TVAIU	\Public Studies\NHANES\questionnaire\food component recall\Vitamin A\	N
+DR1TVARA	\Public Studies\NHANES\questionnaire\food component recall\Vitamin A, RAE (mcg)\	T
+DR1TVARE	\Public Studies\NHANES\questionnaire\food component recall\Retinol\	N
+DR1TVB1	\Public Studies\NHANES\questionnaire\food component recall\Thiamin (Vitamin B1) (mg)\	N
+DR1TVB12	\Public Studies\NHANES\questionnaire\food component recall\Vitamin B12 (mcg)\	N
+DR1TVB2	\Public Studies\NHANES\questionnaire\food component recall\Riboflavin (Vitamin B2) (mg)\	N
+DR1TVB6	\Public Studies\NHANES\questionnaire\food component recall\Vitamin B6 (mg)\	N
+DR1TVC	\Public Studies\NHANES\questionnaire\food component recall\Vitamin C (mg)\	N
+DR1TVE	\Public Studies\NHANES\questionnaire\food component recall\Vitamin E\	N
+DR1TVK	\Public Studies\NHANES\questionnaire\food component recall\Vitamin K (mcg)\	T
+DR1TWATE	\Public Studies\NHANES\questionnaire\food component recall\Water\	N
+DR1TZINC	\Public Studies\NHANES\questionnaire\food component recall\Zinc (mg)\	N
+DRD320GW	\Public Studies\NHANES\questionnaire\food component recall\Total plain water drank yesterday (gm)\	N
+DRD330GW	\Public Studies\NHANES\questionnaire\food component recall\Total home tap water drank yesterday(gm)\	N
+DRD340	\Public Studies\NHANES\questionnaire\food component recall\Shellfish eaten during past 30 days\	N
+DRD350A	\Public Studies\NHANES\questionnaire\food component recall\Clams eaten during past 30 days\	N
+DRD350AQ	\Public Studies\NHANES\questionnaire\food component recall\# of times clams eaten in past 30 days\	N
+DRD350B	\Public Studies\NHANES\questionnaire\food component recall\Crabs eaten during past 30 days\	N
+DRD350BQ	\Public Studies\NHANES\questionnaire\food component recall\# of times crabs eaten in past 30 days\	N
+DRD350C	\Public Studies\NHANES\questionnaire\food component recall\Crayfish eaten during past 30 days\	N
+DRD350CQ	\Public Studies\NHANES\questionnaire\food component recall\# of times crayfish eaten past 30 days\	T
+DRD350D	\Public Studies\NHANES\questionnaire\food component recall\Lobsters eaten during past 30 days\	N
+DRD350DQ	\Public Studies\NHANES\questionnaire\food component recall\# of times lobsters eaten past 30 days\	N
+DRD350E	\Public Studies\NHANES\questionnaire\food component recall\Mussels eaten during past 30 days\	N
+DRD350EQ	\Public Studies\NHANES\questionnaire\food component recall\# of times mussels eaten in past 30 days\	T
+DRD350F	\Public Studies\NHANES\questionnaire\food component recall\Oysters eaten during past 30 days\	N
+DRD350FQ	\Public Studies\NHANES\questionnaire\food component recall\# of times oysters eaten in past 30 days\	N
+DRD350G	\Public Studies\NHANES\questionnaire\food component recall\Scallops eaten during past 30 days\	N
+DRD350GQ	\Public Studies\NHANES\questionnaire\food component recall\# of times scallops eaten past 30 days\	T
+DRD350H	\Public Studies\NHANES\questionnaire\food component recall\Shrimp eaten during past 30 days\	N
+DRD350HQ	\Public Studies\NHANES\questionnaire\food component recall\# of times shrimp eaten in past 30 days\	N
+DRD350I	\Public Studies\NHANES\questionnaire\food component recall\Other shellfish eaten past 30 days\	N
+DRD350IQ	\Public Studies\NHANES\questionnaire\food component recall\# of times other shellfish eaten\	T
+DRD350J	\Public Studies\NHANES\questionnaire\food component recall\Other unknown shellfish eaten past 30 d\	N
+DRD350JQ	\Public Studies\NHANES\questionnaire\food component recall\# of times other unknown shellfish eaten\	T
+DRD350K	\Public Studies\NHANES\questionnaire\food component recall\Refused on shellfish eaten past 30 days\	N
+DRD360	\Public Studies\NHANES\questionnaire\food component recall\Fish eaten during past 30 days\	N
+DRD370A	\Public Studies\NHANES\questionnaire\food component recall\Breaded fish products eaten past 30 days\	N
+DRD370AQ	\Public Studies\NHANES\questionnaire\food component recall\# of times breaded fish products eaten\	N
+DRD370B	\Public Studies\NHANES\questionnaire\food component recall\Tuna eaten during past 30 days\	N
+DRD370BQ	\Public Studies\NHANES\questionnaire\food component recall\# of times tuna eaten in past 30 days\	N
+DRD370C	\Public Studies\NHANES\questionnaire\food component recall\Bass eaten during past 30 days\	N
+DRD370CQ	\Public Studies\NHANES\questionnaire\food component recall\# of times bass eaten in past 30 days\	T
+DRD370D	\Public Studies\NHANES\questionnaire\food component recall\Catfish eaten during past 30 days\	N
+DRD370DQ	\Public Studies\NHANES\questionnaire\food component recall\# of times catfish eaten in past 30 days\	N
+DRD370E	\Public Studies\NHANES\questionnaire\food component recall\Cod eaten during past 30 days\	N
+DRD370EQ	\Public Studies\NHANES\questionnaire\food component recall\# of times cod eaten in past 30 days\	N
+DRD370F	\Public Studies\NHANES\questionnaire\food component recall\Flatfish eaten during past 30 days\	N
+DRD370FQ	\Public Studies\NHANES\questionnaire\food component recall\# of times flatfish eaten past 30 days\	N
+DRD370G	\Public Studies\NHANES\questionnaire\food component recall\Haddock eaten during past 30 days\	N
+DRD370GQ	\Public Studies\NHANES\questionnaire\food component recall\# of times haddock eaten in past 30 days\	T
+DRD370H	\Public Studies\NHANES\questionnaire\food component recall\Mackerel eaten during past 30 days\	N
+DRD370HQ	\Public Studies\NHANES\questionnaire\food component recall\# of times mackerel eaten past 30 days\	T
+DRD370I	\Public Studies\NHANES\questionnaire\food component recall\Perch eaten during past 30 days\	N
+DRD370IQ	\Public Studies\NHANES\questionnaire\food component recall\# of times perch eaten in past 30 days\	N
+DRD370J	\Public Studies\NHANES\questionnaire\food component recall\Pike eaten during past 30 days\	N
+DRD370JQ	\Public Studies\NHANES\questionnaire\food component recall\# of times pike eaten in past 30 days\	T
+DRD370K	\Public Studies\NHANES\questionnaire\food component recall\Pollock eaten during past 30 days\	N
+DRD370KQ	\Public Studies\NHANES\questionnaire\food component recall\# of times pollock eaten in past 30 days\	T
+DRD370L	\Public Studies\NHANES\questionnaire\food component recall\Porgy eaten during past 30 days\	N
+DRD370LQ	\Public Studies\NHANES\questionnaire\food component recall\# of times porgy eaten in past 30 days\	T
+DRD370M	\Public Studies\NHANES\questionnaire\food component recall\Salmon eaten during past 30 days\	N
+DRD370MQ	\Public Studies\NHANES\questionnaire\food component recall\# of times salmon eaten in past 30 days\	N
+DRD370N	\Public Studies\NHANES\questionnaire\food component recall\Sardines eaten during past 30 days\	N
+DRD370NQ	\Public Studies\NHANES\questionnaire\food component recall\# of times sardines eaten past 30 days\	T
+DRD370O	\Public Studies\NHANES\questionnaire\food component recall\Sea bass eaten during past 30 days\	N
+DRD370OQ	\Public Studies\NHANES\questionnaire\food component recall\# of times sea bass eaten past 30 days\	T
+DRD370P	\Public Studies\NHANES\questionnaire\food component recall\Shark eaten during past 30 days\	N
+DRD370PQ	\Public Studies\NHANES\questionnaire\food component recall\# of times shark eaten in past 30 days\	T
+DRD370Q	\Public Studies\NHANES\questionnaire\food component recall\Swordfish eaten during past 30 days\	N
+DRD370QQ	\Public Studies\NHANES\questionnaire\food component recall\# of times swordfish eaten past 30 days\	T
+DRD370R	\Public Studies\NHANES\questionnaire\food component recall\Trout eaten during past 30 days\	N
+DRD370RQ	\Public Studies\NHANES\questionnaire\food component recall\# of times trout eaten in past 30 days\	T
+DRD370S	\Public Studies\NHANES\questionnaire\food component recall\Walleye eaten during past 30 days\	N
+DRD370SQ	\Public Studies\NHANES\questionnaire\food component recall\# of times walleye eaten in past 30 days\	T
+DRD370T	\Public Studies\NHANES\questionnaire\food component recall\Other fish eaten during past 30 days\	N
+DRD370TQ	\Public Studies\NHANES\questionnaire\food component recall\# of times other fish eaten past 30 days\	N
+DRD370U	\Public Studies\NHANES\questionnaire\food component recall\Other unknown fish eaten in past 30 days\	N
+DRD370UQ	\Public Studies\NHANES\questionnaire\food component recall\# of times other unknown fish eaten\	N
+DRD370V	\Public Studies\NHANES\questionnaire\food component recall\Refused on fish eaten past 30 days\	N
+DRDCWATR	\Public Studies\NHANES\questionnaire\food component recall\Plain carbonated water (gm)\	T
+DRDDRSTZ	\Public Studies\NHANES\questionnaire\food component recall\Dietary recall status\	T
+DRDRESP	\Public Studies\NHANES\questionnaire\food component recall\Main respondent for the interview\	T
+DRDSDT1	\Public Studies\NHANES\questionnaire\food component recall\Weight Loss Diet\	T
+DRDSDT2	\Public Studies\NHANES\questionnaire\food component recall\Low fat Diet\	T
+DRDSDT3	\Public Studies\NHANES\questionnaire\food component recall\Low salt Diet\	T
+DRDSDT4	\Public Studies\NHANES\questionnaire\food component recall\Sugarfree Diet\	T
+DRDSDT5	\Public Studies\NHANES\questionnaire\food component recall\Low fiber Diet\	T
+DRDSDT6	\Public Studies\NHANES\questionnaire\food component recall\High fiber Diet\	T
+DRDSDT7	\Public Studies\NHANES\questionnaire\food component recall\Diabetic Diet\	T
+DRDSDT8	\Public Studies\NHANES\questionnaire\food component recall\Weight-gain Diet\	T
+DRDTSODI	\Public Studies\NHANES\questionnaire\food component recall\Sodium (mg)\	N
+drink_five_per_day	\Public Studies\NHANES\questionnaire\alcohol use\drink 5 in a day\	N
+DSDCOUNT	\Public Studies\NHANES\questionnaire\supplement use\DSDCOUNT\	N
+DUQ100	\Public Studies\NHANES\questionnaire\street drug\Ever used cocaine or other street drug\	N
+DUQ110	\Public Studies\NHANES\questionnaire\street drug\#days used street drugs over past year\	N
+DUQ120	\Public Studies\NHANES\questionnaire\street drug\Ever used a needle to take street drugs\	N
+DUQ130	\Public Studies\NHANES\questionnaire\street drug\#days used needle for street drugs/year\	T
+DUQ200	\Public Studies\NHANES\questionnaire\street drug\Ever used marijuana or hashish\	T
+DUQ210	\Public Studies\NHANES\questionnaire\street drug\Age when first tried marijuana\	T
+DUQ230	\Public Studies\NHANES\questionnaire\street drug\# days used marijuana or hashish/month\	T
+DUQ240	\Public Studies\NHANES\questionnaire\street drug\Ever used cocaine/heroin/methamphetamine\	T
+DUQ250	\Public Studies\NHANES\questionnaire\street drug\Ever use any form of cocaine\	T
+DUQ260	\Public Studies\NHANES\questionnaire\street drug\Age first used cocaine\	T
+DUQ272	\Public Studies\NHANES\questionnaire\street drug\# of time you used cocaine\	T
+DUQ280	\Public Studies\NHANES\questionnaire\street drug\# of days used cocaine/month\	T
+DUQ290	\Public Studies\NHANES\questionnaire\street drug\Ever used heroin\	T
+DUQ300	\Public Studies\NHANES\questionnaire\street drug\Age first used heroin\	T
+DUQ320	\Public Studies\NHANES\questionnaire\street drug\# of days used heroin/month\	T
+DUQ330	\Public Studies\NHANES\questionnaire\street drug\Ever used methamphetamine\	T
+DUQ340	\Public Studies\NHANES\questionnaire\street drug\Age first used methamphetamine\	T
+DUQ352	\Public Studies\NHANES\questionnaire\street drug\# times used methamphetamine\	T
+DUQ360	\Public Studies\NHANES\questionnaire\street drug\# days used methamphetamine/month\	T
+DUQ370	\Public Studies\NHANES\questionnaire\street drug\Ever use a needle to inject illegal drug\	T
+DXDTOBMD	\Public Studies\NHANES\examination\body measures\Total BMD (g/cm^2)\	N
+DXDTOFAT	\Public Studies\NHANES\examination\body measures\Total Fat (g)\	N
+DXDTOLE	\Public Studies\NHANES\examination\body measures\Total Lean excl BMC (g)\	N
+DXDTRLE	\Public Studies\NHANES\examination\body measures\Trunk Lean excl BMC (g)\	N
+DXXHEBMD	\Public Studies\NHANES\examination\body measures\Head BMD (g/cm^2)\	N
+DXXLSBMD	\Public Studies\NHANES\examination\body measures\Lumber Spine BMD (g/cm^2)\	N
+DXXPEBMD	\Public Studies\NHANES\examination\body measures\Lumber Pelvis BMD (g/cm^2)\	N
+DXXTRFAT	\Public Studies\NHANES\examination\body measures\Trunk Fat (g)\	N
+education	\Public Studies\NHANES\demographics\education\	N
+ENALAPRIL	\Public Studies\NHANES\questionnaire\pharmaceutical\ENALAPRIL\	T
+ENALAPRIL_MALEATE	\Public Studies\NHANES\questionnaire\pharmaceutical\ENALAPRIL_MALEATE\	N
+ESCITALOPRAM	\Public Studies\NHANES\questionnaire\pharmaceutical\ESCITALOPRAM\	T
+ESOMEPRAZOLE	\Public Studies\NHANES\questionnaire\pharmaceutical\ESOMEPRAZOLE\	T
+esophagus_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\esophagus_cancer_self_report\	N
+ESTRADIOL	\Public Studies\NHANES\questionnaire\pharmaceutical\ESTRADIOL\	N
+ESTROGENS__CONJUGATED	\Public Studies\NHANES\questionnaire\pharmaceutical\ESTROGENS__CONJUGATED\	N
+ESTROGENS__CONJUGATED__MEDROXYPROGESTERONE_ACETATE	\Public Studies\NHANES\questionnaire\pharmaceutical\ESTROGENS__CONJUGATED__MEDROXYPROGESTERONE_ACETATE\	N
+ETHINYL_ESTRADIOL__LEVONORGESTREL	\Public Studies\NHANES\questionnaire\pharmaceutical\ETHINYL_ESTRADIOL__LEVONORGESTREL\	N
+ETHINYL_ESTRADIOL__NORETHINDRONE	\Public Studies\NHANES\questionnaire\pharmaceutical\ETHINYL_ESTRADIOL__NORETHINDRONE\	T
+ETHINYL_ESTRADIOL__NORGESTIMATE	\Public Studies\NHANES\questionnaire\pharmaceutical\ETHINYL_ESTRADIOL__NORGESTIMATE\	N
+ever_arthritis	\Public Studies\NHANES\questionnaire\disease\Ever arthritis?\	N
+ever_asthma	\Public Studies\NHANES\questionnaire\disease\Ever asthma?\	N
+ever_loud_noise_gt3	\Public Studies\NHANES\questionnaire\occupation\ever_loud_noise_gt3\	N
+ever_loud_noise_gt3_2	\Public Studies\NHANES\questionnaire\occupation\ever_loud_noise_gt3_2\	N
+ever_osteo_arthritis	\Public Studies\NHANES\questionnaire\disease\Ever osteo arthritis?\	N
+ever_rheumatoid_arthritis	\Public Studies\NHANES\questionnaire\disease\Ever rheumatoid arthritis?\	N
+EZETIMIBE	\Public Studies\NHANES\questionnaire\pharmaceutical\EZETIMIBE\	T
+EZETIMIBE__SIMVASTATIN	\Public Studies\NHANES\questionnaire\pharmaceutical\EZETIMIBE__SIMVASTATIN\	T
+FELODIPINE	\Public Studies\NHANES\questionnaire\pharmaceutical\FELODIPINE\	T
+FENOFIBRATE	\Public Studies\NHANES\questionnaire\pharmaceutical\FENOFIBRATE\	T
+FEXOFENADINE	\Public Studies\NHANES\questionnaire\pharmaceutical\FEXOFENADINE\	T
+FEXOFENADINE_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\FEXOFENADINE_HYDROCHLORIDE\	N
+first_degree_support	\Public Studies\NHANES\questionnaire\social support\first_degree_support\	N
+FLUOXETINE	\Public Studies\NHANES\questionnaire\pharmaceutical\FLUOXETINE\	T
+FLUOXETINE_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\FLUOXETINE_HYDROCHLORIDE\	N
+FLUTICASONE	\Public Studies\NHANES\questionnaire\pharmaceutical\FLUTICASONE\	T
+FLUTICASONE__SALMETEROL	\Public Studies\NHANES\questionnaire\pharmaceutical\FLUTICASONE__SALMETEROL\	T
+FLUTICASONE_NASAL	\Public Studies\NHANES\questionnaire\pharmaceutical\FLUTICASONE_NASAL\	T
+FLUTICASONE_PROPIONATE	\Public Studies\NHANES\questionnaire\pharmaceutical\FLUTICASONE_PROPIONATE\	N
+FLUVASTATIN_SODIUM	\Public Studies\NHANES\questionnaire\pharmaceutical\FLUVASTATIN_SODIUM\	N
+FOLIC_ACID_mcg	\Public Studies\NHANES\questionnaire\supplement use\FOLIC_ACID_mcg\	N
+FOLIC_ACID_Unknown	\Public Studies\NHANES\questionnaire\supplement use\FOLIC_ACID_Unknown\	T
+FOSINOPRIL	\Public Studies\NHANES\questionnaire\pharmaceutical\FOSINOPRIL\	T
+FOSINOPRIL_SODIUM	\Public Studies\NHANES\questionnaire\pharmaceutical\FOSINOPRIL_SODIUM\	N
+FUROSEMIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\FUROSEMIDE\	N
+GABAPENTIN	\Public Studies\NHANES\questionnaire\pharmaceutical\GABAPENTIN\	T
+gallbladder_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\gallbladder_cancer_self_report\	N
+GEMFIBROZIL	\Public Studies\NHANES\questionnaire\pharmaceutical\GEMFIBROZIL\	N
+GLIMEPIRIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\GLIMEPIRIDE\	N
+GLIPIZIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\GLIPIZIDE\	N
+GLYBURIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\GLYBURIDE\	N
+GLYBURIDE__METFORMIN	\Public Studies\NHANES\questionnaire\pharmaceutical\GLYBURIDE__METFORMIN\	T
+GLYCINE_gm	\Public Studies\NHANES\questionnaire\supplement use\GLYCINE_gm\	N
+GLYCINE_mg	\Public Studies\NHANES\questionnaire\supplement use\GLYCINE_mg\	N
+hepa	\Public Studies\NHANES\questionnaire\immunization\hepatitis a\	N
+hepb	\Public Studies\NHANES\questionnaire\immunization\hepatitis b\	N
+HISTIDINE_mg	\Public Studies\NHANES\questionnaire\supplement use\HISTIDINE_mg\	N
+home_painted_12mos	\Public Studies\NHANES\questionnaire\housing\painted (12mo)\	N
+house_age	\Public Studies\NHANES\questionnaire\housing\house age\	N
+house_type	\Public Studies\NHANES\questionnaire\housing\house type\	N
+how_long_estrogen	\Public Studies\NHANES\questionnaire\pharmaceutical\how_long_estrogen\	N
+how_long_estrogen_patch	\Public Studies\NHANES\questionnaire\pharmaceutical\how_long_estrogen_patch\	T
+how_long_estrogen_progestin	\Public Studies\NHANES\questionnaire\pharmaceutical\how_long_estrogen_progestin\	T
+how_long_estrogen_progestin_patch	\Public Studies\NHANES\questionnaire\pharmaceutical\how_long_estrogen_progestin_patch\	T
+how_long_progestin	\Public Studies\NHANES\questionnaire\pharmaceutical\how_long_progestin\	T
+how_many_years_in_house	\Public Studies\NHANES\questionnaire\housing\years in house\	N
+HRDHG	\Public Studies\NHANES\laboratory\heavy metals\Mercury, hair (ppm) MDL Version\	N
+HRXHG	\Public Studies\NHANES\laboratory\heavy metals\Mercury, hair (ppm)\	N
+HYDROCHLOROTHIAZIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\HYDROCHLOROTHIAZIDE\	N
+HYDROCHLOROTHIAZIDE__LISINOPRIL	\Public Studies\NHANES\questionnaire\pharmaceutical\HYDROCHLOROTHIAZIDE__LISINOPRIL\	N
+HYDROCHLOROTHIAZIDE__LOSARTAN	\Public Studies\NHANES\questionnaire\pharmaceutical\HYDROCHLOROTHIAZIDE__LOSARTAN\	T
+HYDROCHLOROTHIAZIDE__LOSARTAN_POTASSIUM	\Public Studies\NHANES\questionnaire\pharmaceutical\HYDROCHLOROTHIAZIDE__LOSARTAN_POTASSIUM\	T
+HYDROCHLOROTHIAZIDE__TRIAMTERENE	\Public Studies\NHANES\questionnaire\pharmaceutical\HYDROCHLOROTHIAZIDE__TRIAMTERENE\	N
+HYDROCHLOROTHIAZIDE__VALSARTAN	\Public Studies\NHANES\questionnaire\pharmaceutical\HYDROCHLOROTHIAZIDE__VALSARTAN\	T
+HYDROCODONE_UNSPECIFIED	\Public Studies\NHANES\questionnaire\pharmaceutical\HYDROCODONE_UNSPECIFIED\	N
+HYDROXYZINE	\Public Studies\NHANES\questionnaire\pharmaceutical\HYDROXYZINE\	T
+HYDROXYZINE_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\HYDROXYZINE_HYDROCHLORIDE\	N
+IBUPROFEN	\Public Studies\NHANES\questionnaire\pharmaceutical\IBUPROFEN\	N
+INDFMPIR	\Public Studies\NHANES\demographics\INDFMPIR\	N
+industry_agriculture	\Public Studies\NHANES\questionnaire\occupation\industry_agriculture\	T
+industry_construction	\Public Studies\NHANES\questionnaire\occupation\industry_construction\	N
+industry_manufacturing	\Public Studies\NHANES\questionnaire\occupation\industry_manufacturing\	N
+industry_mining	\Public Studies\NHANES\questionnaire\occupation\industry_mining\	T
+industry_other	\Public Studies\NHANES\questionnaire\occupation\industry_other\	N
+industry_transport	\Public Studies\NHANES\questionnaire\occupation\industry_transport\	T
+INSULIN	\Public Studies\NHANES\questionnaire\pharmaceutical\INSULIN\	N
+INSULIN_GLARGINE	\Public Studies\NHANES\questionnaire\pharmaceutical\INSULIN_GLARGINE\	T
+INSULIN_ISOPHANE	\Public Studies\NHANES\questionnaire\pharmaceutical\INSULIN_ISOPHANE\	T
+IPRATROPIUM_BROMIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\IPRATROPIUM_BROMIDE\	N
+IRBESARTAN	\Public Studies\NHANES\questionnaire\pharmaceutical\IRBESARTAN\	T
+IRON_mg	\Public Studies\NHANES\questionnaire\supplement use\IRON_mg\	N
+IRON_Trace	\Public Studies\NHANES\questionnaire\supplement use\IRON_Trace\	T
+IRON_Unknown	\Public Studies\NHANES\questionnaire\supplement use\IRON_Unknown\	T
+ISOLEUCINE_mg	\Public Studies\NHANES\questionnaire\supplement use\ISOLEUCINE_mg\	N
+ISOSORBIDE_MONONITRATE	\Public Studies\NHANES\questionnaire\pharmaceutical\ISOSORBIDE_MONONITRATE\	N
+ISOSORBIDE_UNSPECIFIED	\Public Studies\NHANES\questionnaire\pharmaceutical\ISOSORBIDE_UNSPECIFIED\	N
+kidney_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\kidney_cancer_self_report\	N
+L_ASPARTIC_ACID_gm	\Public Studies\NHANES\questionnaire\supplement use\L_ASPARTIC_ACID_gm\	N
+L_ASPARTIC_ACID_mg	\Public Studies\NHANES\questionnaire\supplement use\L_ASPARTIC_ACID_mg\	N
+L_GLUTAMINE_gm	\Public Studies\NHANES\questionnaire\supplement use\L_GLUTAMINE_gm\	N
+L_GLUTAMINE_mg	\Public Studies\NHANES\questionnaire\supplement use\L_GLUTAMINE_mg\	N
+LANSOPRAZOLE	\Public Studies\NHANES\questionnaire\pharmaceutical\LANSOPRAZOLE\	N
+larynx_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\larynx_cancer_self_report\	N
+last_time_used_cocaine	\Public Studies\NHANES\questionnaire\street drug\last time (days) used cocaine\	T
+last_time_used_heroin	\Public Studies\NHANES\questionnaire\street drug\last time (days) used heroin\	T
+last_time_used_marijuana	\Public Studies\NHANES\questionnaire\street drug\last time (days) used marijuana\	T
+last_time_used_meth	\Public Studies\NHANES\questionnaire\street drug\last time (days) used meth\	T
+LATANOPROST	\Public Studies\NHANES\questionnaire\pharmaceutical\LATANOPROST\	N
+LATANOPROST_OPHTHALMIC	\Public Studies\NHANES\questionnaire\pharmaceutical\LATANOPROST_OPHTHALMIC\	T
+LBD199	\Public Studies\NHANES\laboratory\pcbs\PCB199 (ng/g)\	T
+LBDATCSI	\Public Studies\NHANES\laboratory\nutrients\a-Tocopherol(umol/L)\	T
+LBDBANO	\Public Studies\NHANES\laboratory\blood\Basophils number\	N
+LBDC1	\Public Studies\NHANES\laboratory\bacterial infection\Cryptosporidium (17kDA)\	N
+LBDC2	\Public Studies\NHANES\laboratory\bacterial infection\Cryptosporidium (27kDA)\	N
+LBDDWS	\Public Studies\NHANES\laboratory\heavy metals\Window, FAAS (ug/sq. ft.)\	N
+LBDEONO	\Public Studies\NHANES\laboratory\blood\Eosinophils number\	N
+LBDHBG	\Public Studies\NHANES\laboratory\viral infection\Hepatitis B surface antigen\	N
+LBDHCV	\Public Studies\NHANES\laboratory\viral infection\Hepatitis C antibody (confirmed)\	N
+LBDHD	\Public Studies\NHANES\laboratory\viral infection\Hepatitis D (anti-HDV)\	N
+LBDHDD	\Public Studies\NHANES\laboratory\biochemistry\Direct HDL-Cholesterol (mg/dL)\	T
+LBDHDL	\Public Studies\NHANES\laboratory\biochemistry\HDL-cholesterol (mg/dL)\	N
+LBDHI	\Public Studies\NHANES\laboratory\viral infection\HIV antibody test result\	N
+LBDLDL	\Public Studies\NHANES\laboratory\biochemistry\LDL-cholesterol (mg/dL)\	N
+LBDLYMNO	\Public Studies\NHANES\laboratory\blood\Lymphocyte number\	N
+LBDMONO	\Public Studies\NHANES\laboratory\blood\Monocyte number\	N
+LBDNENO	\Public Studies\NHANES\laboratory\blood\Segmented neutrophils number\	N
+LBDP3	\Public Studies\NHANES\laboratory\biochemistry\Prostate specific antigen ratio (%)\	T
+LBDPCT	\Public Studies\NHANES\laboratory\biochemistry\Transferrin saturation (%)\	N
+LBDRUIU	\Public Studies\NHANES\laboratory\bacterial infection\Rubella international units\	N
+LBDSY3	\Public Studies\NHANES\laboratory\bacterial infection\Syphilis RPR Titer Level\	T
+LBDSY4	\Public Studies\NHANES\laboratory\bacterial infection\Syphilis TP-PA\	T
+LBDTLY	\Public Studies\NHANES\laboratory\nutrients\Total (cis- and trans-)Lycopene (ug/dL)\	T
+LBX028	\Public Studies\NHANES\laboratory\pcbs\PCB28 (ng/g)\	N
+LBX044	\Public Studies\NHANES\laboratory\pcbs\PCB44 (ng/g)\	T
+LBX049	\Public Studies\NHANES\laboratory\pcbs\PCB49 (ng/g)\	T
+LBX052	\Public Studies\NHANES\laboratory\pcbs\PCB52 (ng/g)\	N
+LBX066	\Public Studies\NHANES\laboratory\pcbs\PCB66 (ng/g)\	N
+LBX074	\Public Studies\NHANES\laboratory\pcbs\PCB74 (ng/g)\	N
+LBX087	\Public Studies\NHANES\laboratory\pcbs\PCB87 (ng/g)\	T
+LBX099	\Public Studies\NHANES\laboratory\pcbs\PCB99 (ng/g)\	N
+LBX101	\Public Studies\NHANES\laboratory\pcbs\PCB101 (ng/g)\	N
+LBX105	\Public Studies\NHANES\laboratory\pcbs\PCB105 (ng/g)\	N
+LBX110	\Public Studies\NHANES\laboratory\pcbs\PCB110 (ng/g)\	T
+LBX118	\Public Studies\NHANES\laboratory\pcbs\PCB118 (ng/g)\	N
+LBX128	\Public Studies\NHANES\laboratory\pcbs\PCB128 (ng/g)\	N
+LBX138	\Public Studies\NHANES\laboratory\pcbs\PCB138 & 158 (ng/g)\	N
+LBX146	\Public Studies\NHANES\laboratory\pcbs\PCB146 (ng/g)\	N
+LBX149	\Public Studies\NHANES\laboratory\pcbs\PCB149 (ng/g)\	T
+LBX151	\Public Studies\NHANES\laboratory\pcbs\PCB151 (ng/g)\	T
+LBX153	\Public Studies\NHANES\laboratory\pcbs\PCB153 (ng/g)\	N
+LBX156	\Public Studies\NHANES\laboratory\pcbs\PCB156 (ng/g)\	N
+LBX157	\Public Studies\NHANES\laboratory\pcbs\PCB157 (ng/g)\	N
+LBX167	\Public Studies\NHANES\laboratory\pcbs\PCB167 (ng/g)\	N
+LBX170	\Public Studies\NHANES\laboratory\pcbs\PCB170 (ng/g)\	N
+LBX172	\Public Studies\NHANES\laboratory\pcbs\PCB172 (ng/g)\	N
+LBX177	\Public Studies\NHANES\laboratory\pcbs\PCB177 (ng/g)\	N
+LBX178	\Public Studies\NHANES\laboratory\pcbs\PCB178 (ng/g)\	N
+LBX180	\Public Studies\NHANES\laboratory\pcbs\PCB180 (ng/g)\	N
+LBX183	\Public Studies\NHANES\laboratory\pcbs\PCB183 (ng/g)\	N
+LBX187	\Public Studies\NHANES\laboratory\pcbs\PCB187 (ng/g)\	N
+LBX189	\Public Studies\NHANES\laboratory\pcbs\PCB189 (ng/g)\	T
+LBX194	\Public Studies\NHANES\laboratory\pcbs\PCB194 (ng/g)\	T
+LBX195	\Public Studies\NHANES\laboratory\pcbs\PCB195 (ng/g)\	T
+LBX196	\Public Studies\NHANES\laboratory\pcbs\PCB196 & 203 (ng/g)\	T
+LBX206	\Public Studies\NHANES\laboratory\pcbs\PCB206 (ng/g)\	T
+LBX209	\Public Studies\NHANES\laboratory\pcbs\PCB209 (ng/g)\	T
+LBX2DF	\Public Studies\NHANES\laboratory\volatile compounds\Blood 2,5-Dimethylfuran (ng/mL)\	T
+LBXACR	\Public Studies\NHANES\laboratory\acrylamide\Acrylamide (pmoL/G Hb)\	T
+LBXACY	\Public Studies\NHANES\laboratory\nutrients\a-Cryptoxanthin(ug/dL)\	T
+LBXALC	\Public Studies\NHANES\laboratory\nutrients\a-Carotene(ug/dL)\	T
+LBXALD	\Public Studies\NHANES\laboratory\pesticides\Aldrin (ng/g)\	T
+LBXAPB	\Public Studies\NHANES\laboratory\biochemistry\Apolipoprotein (B) (mg/dL)\	T
+LBXB12	\Public Studies\NHANES\laboratory\nutrients\Vitamin B12, serum (pg/mL)\	N
+LBXBAP	\Public Studies\NHANES\laboratory\biochemistry\Bone alkaline phosphotase (ug/L)\	N
+LBXBAPCT	\Public Studies\NHANES\laboratory\blood\Basophils percent (%)\	N
+LBXBB1	\Public Studies\NHANES\laboratory\polybrominated ethers\2,2,4,4,5,5-hexabromobiphenyl\	T
+LBXBCC	\Public Studies\NHANES\laboratory\nutrients\total b-Carotene(ug/dL)\	T
+LBXBCD	\Public Studies\NHANES\laboratory\heavy metals\Cadmium (ug/L)\	N
+LBXBEC	\Public Studies\NHANES\laboratory\nutrients\trans-b-carotene(ug/dL)\	T
+LBXBHC	\Public Studies\NHANES\laboratory\pesticides\Beta-hexachlorocyclohexane (ng/g)\	N
+LBXBPB	\Public Studies\NHANES\laboratory\heavy metals\Lead (ug/dL)\	N
+LBXBR1	\Public Studies\NHANES\laboratory\polybrominated ethers\2,2,4-tribromodiphenyl ether\	T
+LBXBR2	\Public Studies\NHANES\laboratory\polybrominated ethers\2,4,4-tribromodiphenyl ether\	T
+LBXBR3	\Public Studies\NHANES\laboratory\polybrominated ethers\2,2,4,4-tetrabromodiphenyl ether\	T
+LBXBR4	\Public Studies\NHANES\laboratory\polybrominated ethers\2,2,3,4,4-pentabromodiphenyl ether\	T
+LBXBR5	\Public Studies\NHANES\laboratory\polybrominated ethers\2,2,4,4,5-pentabromodiphenyl ether\	T
+LBXBR6	\Public Studies\NHANES\laboratory\polybrominated ethers\2,2,4,4,6-pentabromodiphenyl ether\	T
+LBXBR66	\Public Studies\NHANES\laboratory\polybrominated ethers\2,3,4,4-tetrabromodiphenyl ether\	T
+LBXBR66L	\Public Studies\NHANES\laboratory\polybrominated ethers\2,3,4,4-tetrabromodiphenyl lipid adj\	T
+LBXBR7	\Public Studies\NHANES\laboratory\polybrominated ethers\2,2,4,4,5,5-hexabromodiphenyl ether\	T
+LBXBR8	\Public Studies\NHANES\laboratory\polybrominated ethers\2,2,4,4,5,6-hexabromodiphenyl ether\	T
+LBXBR9	\Public Studies\NHANES\laboratory\polybrominated ethers\2,2,3,4,4,5,6-heptabromodiphenyl ethr\	T
+LBXBV	\Public Studies\NHANES\laboratory\bacterial infection\Bacterial Vaginosis\	T
+LBXCBC	\Public Studies\NHANES\laboratory\nutrients\cis-b-carotene(ug/dL)\	T
+LBXCD1	\Public Studies\NHANES\laboratory\bacterial infection\Clinda induction (D) test 1\	T
+LBXCD4	\Public Studies\NHANES\laboratory\viral infection\CD4 counts (cells/mm3)\	T
+LBXCD8	\Public Studies\NHANES\laboratory\viral infection\CD8 counts (cells/mm3)\	T
+LBXCH1	\Public Studies\NHANES\laboratory\bacterial infection\Chloramphenicol 1\	T
+LBXCLC	\Public Studies\NHANES\laboratory\nutrients\cis-Lycopene(ug/dL)\	T
+LBXCLZ	\Public Studies\NHANES\laboratory\nutrients\cis- Lutein/Zeaxanthin(ug/dL)\	T
+LBXCOT	\Public Studies\NHANES\laboratory\cotinine\Cotinine (ng/mL)\	N
+LBXCPSI	\Public Studies\NHANES\laboratory\biochemistry\C-peptide: SI(nmol/L)\	N
+LBXCRP	\Public Studies\NHANES\laboratory\biochemistry\C-reactive protein(mg/dL)\	N
+LBXCRY	\Public Studies\NHANES\laboratory\nutrients\b-cryptoxanthin(ug/dL)\	T
+LBXD01	\Public Studies\NHANES\laboratory\dioxins\1,2,3,7,8-pncdd (fg/g)\	N
+LBXD02	\Public Studies\NHANES\laboratory\dioxins\1,2,3,4,7,8-hxcdd (fg/g)\	T
+LBXD03	\Public Studies\NHANES\laboratory\dioxins\1,2,3,6,7,8-hxcdd (fg/g)\	N
+LBXD04	\Public Studies\NHANES\laboratory\dioxins\1,2,3,7,8,9-hxcdd (fg/g)\	N
+LBXD05	\Public Studies\NHANES\laboratory\dioxins\1,2,3,4,6,7,8-hpcdd (fg/g)\	N
+LBXD07	\Public Studies\NHANES\laboratory\dioxins\1,2,3,4,6,7,8,9-ocdd (fg/g)\	N
+LBXDFS	\Public Studies\NHANES\laboratory\heavy metals\Floor, GFAAS (ug/sq.ft.)\	N
+LBXDFSF	\Public Studies\NHANES\laboratory\heavy metals\Floor, FAAS (ug/sq. ft.)\	T
+LBXDIE	\Public Studies\NHANES\laboratory\pesticides\Dieldrin (ng/g)\	T
+LBXDTC	\Public Studies\NHANES\laboratory\nutrients\d-Tocopherol(ug/dL)\	T
+LBXDY1	\Public Studies\NHANES\laboratory\bacterial infection\Daptomycin 1\	T
+LBXE72	\Public Studies\NHANES\laboratory\allergen test\Mouse IgE antibody (kU/L)\	T
+LBXE74	\Public Studies\NHANES\laboratory\allergen test\Rat IgE antibody (kU/L)\	T
+LBXEND	\Public Studies\NHANES\laboratory\pesticides\Endrin (ng/g)\	T
+LBXEOPCT	\Public Studies\NHANES\laboratory\blood\Eosinophils percent (%)\	N
+LBXEPAH	\Public Studies\NHANES\laboratory\polyflourochemicals\2-(N-ethyl-PFOSA) acetate\	N
+LBXEPP	\Public Studies\NHANES\laboratory\biochemistry\Protoporphyrin(ug/dL RBC)\	N
+LBXETA	\Public Studies\NHANES\laboratory\bacterial infection\Enterotoxin A\	T
+LBXETB	\Public Studies\NHANES\laboratory\bacterial infection\Enterotoxin B\	T
+LBXETC	\Public Studies\NHANES\laboratory\bacterial infection\Enterotoxin C\	T
+LBXETD	\Public Studies\NHANES\laboratory\bacterial infection\Enterotoxin D\	T
+LBXETH	\Public Studies\NHANES\laboratory\bacterial infection\Enterotoxin H\	T
+LBXF01	\Public Studies\NHANES\laboratory\furans\2,3,7,8-tcdf (fg/g)\	N
+LBXF02	\Public Studies\NHANES\laboratory\furans\1,2,3,7,8-pncdf (fg/g)\	N
+LBXF03	\Public Studies\NHANES\laboratory\furans\2,3,4,7,8-pncdf (fg/g)\	N
+LBXF04	\Public Studies\NHANES\laboratory\furans\1,2,3,4,7,8-hxcdf (fg/g)\	N
+LBXF05	\Public Studies\NHANES\laboratory\furans\1,2,3,6,7,8-hxcdf (fg/g)\	N
+LBXF06	\Public Studies\NHANES\laboratory\furans\1,2,3,7,8,9-hxcdf (fg/g)\	N
+LBXF07	\Public Studies\NHANES\laboratory\furans\2,3,4,6,7,8-hxcdf (fg/g)\	N
+LBXF08	\Public Studies\NHANES\laboratory\furans\1,2,3,4,6,7,8-hpcdf (fg/g)\	N
+LBXF09	\Public Studies\NHANES\laboratory\furans\1,2,3,4,7,8,9-hpcdf (fg/g)\	T
+LBXF10	\Public Studies\NHANES\laboratory\furans\1,2,3,4,6,7,8,9-ocdf (fg/g)\	N
+LBXF13	\Public Studies\NHANES\laboratory\allergen test\Peanut IgE antibody (kU/L)\	T
+LBXF24	\Public Studies\NHANES\laboratory\allergen test\Shellfish IgE antibody (kU/L)\	T
+LBXFB	\Public Studies\NHANES\laboratory\biochemistry\Fibrinogen (mg/dL)\	N
+LBXFER	\Public Studies\NHANES\laboratory\biochemistry\Ferritin(ng/mL)\	N
+LBXFOL	\Public Studies\NHANES\laboratory\nutrients\Folate, serum (ng/mL)\	N
+LBXFSH	\Public Studies\NHANES\laboratory\hormone\Follicle stimulating hormone (mIU/mL)\	N
+LBXGH	\Public Studies\NHANES\laboratory\biochemistry\Glycohemoglobin (%)\	N
+LBXGHC	\Public Studies\NHANES\laboratory\pesticides\Gamma-hexachlorocyclohexane (ng/g)\	N
+LBXGLT	\Public Studies\NHANES\laboratory\biochemistry\Two Hour Glucose(OGTT) (mg/dL)\	T
+LBXGLU	\Public Studies\NHANES\laboratory\biochemistry\Glucose, plasma (mg/dL)\	N
+LBXGLUSI	\Public Studies\NHANES\laboratory\biochemistry\Plasma glucose: SI(mmol/L)\	N
+LBXGLY	\Public Studies\NHANES\laboratory\acrylamide\Glycideamide (pmoL/G Hb)\	T
+LBXGTC	\Public Studies\NHANES\laboratory\nutrients\g-tocopherol(ug/dL)\	N
+LBXHA	\Public Studies\NHANES\laboratory\viral infection\Hepatitis A Antibody (Anti-HAV)\	N
+LBXHBC	\Public Studies\NHANES\laboratory\viral infection\Hepatitis B core antibody\	N
+LBXHBS	\Public Studies\NHANES\laboratory\viral infection\Hepatitis B Surface Antibody\	N
+LBXHCB	\Public Studies\NHANES\laboratory\pesticides\Hexachlorobenzene (ng/g)\	N
+LBXHCT	\Public Studies\NHANES\laboratory\blood\Hematocrit (%)\	N
+LBXHCY	\Public Studies\NHANES\laboratory\biochemistry\Homocysteine (umol/L)\	N
+LBXHE1	\Public Studies\NHANES\laboratory\viral infection\Herpes I\	N
+LBXHE2	\Public Studies\NHANES\laboratory\viral infection\Herpes II\	N
+LBXHGB	\Public Studies\NHANES\laboratory\blood\Hemoglobin (g/dL)\	N
+LBXHP1	\Public Studies\NHANES\laboratory\bacterial infection\Helicobacter pylori (ISR)\	N
+LBXHPE	\Public Studies\NHANES\laboratory\pesticides\Heptachlor Epoxide (ng/g)\	N
+LBXHXC	\Public Studies\NHANES\laboratory\pcbs\3,3,4,4,5,5-hxcb (fg/g)\	N
+LBXID1	\Public Studies\NHANES\laboratory\allergen test\D. Pteronyssinus IgE antibody (kU/L)\	T
+LBXID2	\Public Studies\NHANES\laboratory\allergen test\D. Farinae IgE antibody (kU/L)\	T
+LBXIE1	\Public Studies\NHANES\laboratory\allergen test\Cat IgE antibody (kU/L)\	T
+LBXIE5	\Public Studies\NHANES\laboratory\allergen test\Dog IgE antibody (kU/L)\	T
+LBXIF1	\Public Studies\NHANES\laboratory\allergen test\Egg IgE antibody (kU/L)\	T
+LBXIF2	\Public Studies\NHANES\laboratory\allergen test\Milk IgE antibody (kU/L)\	T
+LBXIG2	\Public Studies\NHANES\laboratory\allergen test\Bermuda grass IgE antibody (kU/L)\	T
+LBXIG5	\Public Studies\NHANES\laboratory\allergen test\Rye grass IgE antibody (kU/L)\	T
+LBXIGE	\Public Studies\NHANES\laboratory\allergen test\Serum total IgE antibody (kU/L)\	T
+LBXIHG	\Public Studies\NHANES\laboratory\heavy metals\Mercury, inorganic (ug/L)\	N
+LBXII6	\Public Studies\NHANES\laboratory\allergen test\Cockroach IgE antibody (kU/L)\	T
+LBXIM3	\Public Studies\NHANES\laboratory\allergen test\Aspergillus IgE antibody (kU/L)\	T
+LBXIM6	\Public Studies\NHANES\laboratory\allergen test\Alternaria IgE antibody (kU/L)\	T
+LBXIN	\Public Studies\NHANES\laboratory\hormone\Insulin (uU/mL)\	N
+LBXINSI	\Public Studies\NHANES\laboratory\hormone\Insulin: SI(pmol/L)\	N
+LBXIRN	\Public Studies\NHANES\laboratory\nutrients\Iron, Frozen Serum (ug/dL)\	N
+LBXIT3	\Public Studies\NHANES\laboratory\allergen test\Birch IgE antibody (kU/L)\	T
+LBXIT7	\Public Studies\NHANES\laboratory\allergen test\Oak IgE antibody (kU/L)\	T
+LBXIW1	\Public Studies\NHANES\laboratory\allergen test\Ragweed IgE antibody (kU/L)\	T
+LBXLCC	\Public Studies\NHANES\laboratory\nutrients\total Lycopene(ug/dL)\	T
+LBXLH	\Public Studies\NHANES\laboratory\hormone\Luteinizing hormone (mIU/mL)\	N
+LBXLUT	\Public Studies\NHANES\laboratory\nutrients\Lutein(ug/dL)\	T
+LBXLUZ	\Public Studies\NHANES\laboratory\nutrients\Combined Lutein/zeaxanthin (ug/dL)\	T
+LBXLYC	\Public Studies\NHANES\laboratory\nutrients\trans-lycopene(ug/dL)\	T
+LBXLYPCT	\Public Studies\NHANES\laboratory\blood\Lymphocyte percent (%)\	N
+LBXM1	\Public Studies\NHANES\laboratory\bacterial infection\MRSA 1\	T
+LBXMC	\Public Studies\NHANES\laboratory\blood\MCHC (g/dL)\	N
+LBXMC1	\Public Studies\NHANES\laboratory\bacterial infection\Clindamycin 1\	T
+LBXMCHSI	\Public Studies\NHANES\laboratory\blood\Mean cell hemoglobin (pg)\	N
+LBXMCVSI	\Public Studies\NHANES\laboratory\blood\Mean cell volume (fL)\	N
+LBXMD1	\Public Studies\NHANES\laboratory\bacterial infection\Ciprofloxacin 1\	T
+LBXME	\Public Studies\NHANES\laboratory\bacterial infection\Measles\	N
+LBXME1	\Public Studies\NHANES\laboratory\bacterial infection\Erythromycin 1\	T
+LBXMF1	\Public Studies\NHANES\laboratory\bacterial infection\Cefazolin 1\	T
+LBXMG1	\Public Studies\NHANES\laboratory\bacterial infection\Gentamicin 1\	T
+LBXMI1	\Public Studies\NHANES\laboratory\bacterial infection\Imipenem 1\	T
+LBXMIR	\Public Studies\NHANES\laboratory\pesticides\Mirex (ng/g)\	N
+LBXML1	\Public Studies\NHANES\laboratory\bacterial infection\Levofloxacin 1\	T
+LBXMMA	\Public Studies\NHANES\laboratory\biochemistry\Methylmalonic acid (umol/L)\	N
+LBXMO1	\Public Studies\NHANES\laboratory\bacterial infection\Oxacillin 1\	T
+LBXMOPCT	\Public Studies\NHANES\laboratory\blood\Monocyte percent (%)\	N
+LBXMP1	\Public Studies\NHANES\laboratory\bacterial infection\Penicillin 1\	T
+LBXMPAH	\Public Studies\NHANES\laboratory\polyflourochemicals\2-(N-methyl-PFOSA) acetate\	N
+LBXMPSI	\Public Studies\NHANES\laboratory\blood\Mean platelet volume (fL)\	N
+LBXMR1	\Public Studies\NHANES\laboratory\bacterial infection\Rifampin 1\	T
+LBXMS1	\Public Studies\NHANES\laboratory\bacterial infection\S. aureus present 1\	T
+LBXMT1	\Public Studies\NHANES\laboratory\bacterial infection\Tetracycline 1\	T
+LBXMY1	\Public Studies\NHANES\laboratory\bacterial infection\Amoxicillin/k Clavulanate 1\	T
+LBXMZ1	\Public Studies\NHANES\laboratory\bacterial infection\Trimethoprim/Sulfamethoxazole 1\	T
+LBXNEPCT	\Public Studies\NHANES\laboratory\blood\Segmented neutrophils percent (%)\	N
+LBXODT	\Public Studies\NHANES\laboratory\pesticides\o,p-DDT (ng/g)\	N
+LBXOXY	\Public Studies\NHANES\laboratory\pesticides\Oxychlordane (ng/g)\	N
+LBXP1	\Public Studies\NHANES\laboratory\biochemistry\PSA. total (ng/mL)\	T
+LBXP2	\Public Studies\NHANES\laboratory\biochemistry\PSA, free (ng/mL)\	T
+LBXPCB	\Public Studies\NHANES\laboratory\pcbs\3,3,4,4,5-pncb (fg/g)\	N
+LBXPDE	\Public Studies\NHANES\laboratory\pesticides\p,p-DDE (ng/g)\	N
+LBXPDT	\Public Studies\NHANES\laboratory\pesticides\p,p-DDT (ng/g)\	N
+LBXPFBS	\Public Studies\NHANES\laboratory\polyflourochemicals\Perfluorobutane sulfonic acid\	T
+LBXPFDE	\Public Studies\NHANES\laboratory\polyflourochemicals\Perfluorodecanoic acid\	N
+LBXPFDO	\Public Studies\NHANES\laboratory\polyflourochemicals\Perfluorododecanoic acid\	N
+LBXPFHP	\Public Studies\NHANES\laboratory\polyflourochemicals\Perfluoroheptanoic acid\	N
+LBXPFHS	\Public Studies\NHANES\laboratory\polyflourochemicals\Perfluorohexane sulfonic acid\	N
+LBXPFNA	\Public Studies\NHANES\laboratory\polyflourochemicals\Perfluorononanoic acid\	N
+LBXPFOA	\Public Studies\NHANES\laboratory\polyflourochemicals\Perfluorooctanoic acid\	N
+LBXPFOS	\Public Studies\NHANES\laboratory\polyflourochemicals\Perfluorooctane sulfonic acid\	N
+LBXPFSA	\Public Studies\NHANES\laboratory\polyflourochemicals\Perfluorooctane sulfonamide\	N
+LBXPFUA	\Public Studies\NHANES\laboratory\polyflourochemicals\Perfluoroundecanoic acid\	N
+LBXPHE	\Public Studies\NHANES\laboratory\nutrients\Phytoene(ug/dL)\	T
+LBXPHF	\Public Studies\NHANES\laboratory\nutrients\Phytofluene(ug/dL)\	T
+LBXPLTSI	\Public Studies\NHANES\laboratory\blood\Platelet count SI (1000 cells/uL)\	N
+LBXPT21	\Public Studies\NHANES\laboratory\hormone\Parathyroid Hormone(Elecys method) pg/mL\	T
+LBXPVL	\Public Studies\NHANES\laboratory\bacterial infection\Panton Valentine Leukocidin\	T
+LBXRBCSI	\Public Studies\NHANES\laboratory\blood\Red blood cell count (million cells/uL)\	N
+LBXRBF	\Public Studies\NHANES\laboratory\nutrients\Folate, RBC (ng/mL RBC)\	N
+LBXRDW	\Public Studies\NHANES\laboratory\blood\Red cell distribution width (%)\	N
+LBXRPL	\Public Studies\NHANES\laboratory\nutrients\Retinyl palmitate(ug/dL)\	N
+LBXRST	\Public Studies\NHANES\laboratory\nutrients\Retinyl stearate(ug/dL)\	N
+LBXS06MK	\Public Studies\NHANES\laboratory\viral infection\HPV 06 (Merck competitive Luminex assay)\	T
+LBXS11MK	\Public Studies\NHANES\laboratory\viral infection\HPV 11 (Merck competitive Luminex assay)\	T
+LBXS16MK	\Public Studies\NHANES\laboratory\viral infection\HPV 16 (Merck competitive Luminex assay)\	T
+LBXS18MK	\Public Studies\NHANES\laboratory\viral infection\HPV 18 (Merck competitive Luminex assay)\	T
+LBXSAL	\Public Studies\NHANES\laboratory\biochemistry\Albumin (g/dL)\	N
+LBXSAPSI	\Public Studies\NHANES\laboratory\biochemistry\Alkaline phosphotase (U/L)\	N
+LBXSASSI	\Public Studies\NHANES\laboratory\biochemistry\Aspartate aminotransferase AST (U/L)\	N
+LBXSATSI	\Public Studies\NHANES\laboratory\biochemistry\Alanine aminotransferase ALT (U/L)\	N
+LBXSBU	\Public Studies\NHANES\laboratory\biochemistry\Blood urea nitrogen (mg/dL)\	N
+LBXSC3SI	\Public Studies\NHANES\laboratory\biochemistry\Bicarbonate (mmol/L)\	N
+LBXSCA	\Public Studies\NHANES\laboratory\biochemistry\Total calcium (mg/dL)\	N
+LBXSCH	\Public Studies\NHANES\laboratory\biochemistry\Cholesterol (mg/dL)\	N
+LBXSCLSI	\Public Studies\NHANES\laboratory\biochemistry\Chloride (mmol/L)\	N
+LBXSCR	\Public Studies\NHANES\laboratory\biochemistry\Creatinine (mg/dL)\	N
+LBXSCRINV	\Public Studies\NHANES\laboratory\biochemistry\1/Creatinine (mg/dL)\	N
+LBXSEL	\Public Studies\NHANES\laboratory\nutrients\Selenium(ug/L)\	N
+LBXSGB	\Public Studies\NHANES\laboratory\biochemistry\Globulin (g/dL)\	N
+LBXSGL	\Public Studies\NHANES\laboratory\biochemistry\Glucose, serum (mg/dL)\	N
+LBXSGTSI	\Public Studies\NHANES\laboratory\biochemistry\Gamma glutamyl transferase (U/L)\	N
+LBXSIR	\Public Studies\NHANES\laboratory\biochemistry\Iron, refigerated (ug/dL)\	N
+LBXSKSI	\Public Studies\NHANES\laboratory\biochemistry\Potassium (mmol/L)\	N
+LBXSLDSI	\Public Studies\NHANES\laboratory\biochemistry\Lactate dehydrogenase LDH (U/L)\	N
+LBXSNASI	\Public Studies\NHANES\laboratory\biochemistry\Sodium (mmol/L)\	N
+LBXSOSSI	\Public Studies\NHANES\laboratory\biochemistry\Osmolality (mmol/Kg)\	N
+LBXSPH	\Public Studies\NHANES\laboratory\biochemistry\Phosphorus (mg/dL)\	N
+LBXSTB	\Public Studies\NHANES\laboratory\biochemistry\Total bilirubin (mg/dL)\	N
+LBXSTP	\Public Studies\NHANES\laboratory\biochemistry\Total protein (g/dL)\	N
+LBXSTR	\Public Studies\NHANES\laboratory\biochemistry\Triglycerides (mg/dL)\	N
+LBXSUA	\Public Studies\NHANES\laboratory\biochemistry\Uric acid (mg/dL)\	N
+LBXSY1	\Public Studies\NHANES\laboratory\bacterial infection\Syphilis IgG EIA\	T
+LBXT4	\Public Studies\NHANES\laboratory\hormone\Thyroxine (T4) (ug/dL)\	N
+LBXTC	\Public Studies\NHANES\laboratory\biochemistry\Total Cholesterol (mg/dL)\	N
+LBXTC2	\Public Studies\NHANES\laboratory\pcbs\3,4,4,5-tcb (fg/g)\	N
+LBXTCD	\Public Studies\NHANES\laboratory\dioxins\2,3,7,8-tcdd (fg/g)\	N
+LBXTFR	\Public Studies\NHANES\laboratory\biochemistry\Transferrin receptor (mg/L)\	T
+LBXTHG	\Public Studies\NHANES\laboratory\heavy metals\Mercury, total (ug/L)\	N
+LBXTIB	\Public Studies\NHANES\laboratory\biochemistry\TIBC, Frozen Serum (ug/dL)\	N
+LBXTNA	\Public Studies\NHANES\laboratory\pesticides\Trans-nonachlor (ng/g)\	N
+LBXTO1	\Public Studies\NHANES\laboratory\bacterial infection\Toxoplasma (IgG)\	N
+LBXTO2	\Public Studies\NHANES\laboratory\bacterial infection\Toxoplasma (IgM)\	N
+LBXTO3	\Public Studies\NHANES\laboratory\bacterial infection\Toxoplasma (Dye)\	T
+LBXTO5	\Public Studies\NHANES\laboratory\bacterial infection\Toxoplasma (Avidity) IgG\	T
+LBXTR	\Public Studies\NHANES\laboratory\biochemistry\Triglyceride (mg/dL)\	N
+LBXTSH	\Public Studies\NHANES\laboratory\hormone\Thyroid stim hormone (TSH) (IU/L)\	N
+LBXTSS	\Public Studies\NHANES\laboratory\bacterial infection\Toxic Shock Syndrome Toxin 1\	T
+LBXTV	\Public Studies\NHANES\laboratory\bacterial infection\Trichomonas Vaginalis\	T
+LBXV1A	\Public Studies\NHANES\laboratory\volatile compounds\Blood 1,1-Dichloroethane (ng/mL)\	T
+LBXV1D	\Public Studies\NHANES\laboratory\volatile compounds\Blood 1,2-Dichlorobenzene (ng/mL)\	T
+LBXV1E	\Public Studies\NHANES\laboratory\volatile compounds\Blood 1,1-Dichloroethene (ng/mL)\	T
+LBXV2A	\Public Studies\NHANES\laboratory\volatile compounds\Blood 1,2-Dichloroethane (ng/mL)\	T
+LBXV2C	\Public Studies\NHANES\laboratory\volatile compounds\Blood cis-1,2-Dichloroethene (ng/mL)\	T
+LBXV2E	\Public Studies\NHANES\laboratory\volatile compounds\Blood 1,1,2-Trichloroethene (ng/mL)\	T
+LBXV2P	\Public Studies\NHANES\laboratory\volatile compounds\Blood 1,2-Dibromo-3-chloropropane(ng/mL)\	T
+LBXV2T	\Public Studies\NHANES\laboratory\volatile compounds\Blood trans-1,2-Dichloroethene (ng/mL)\	T
+LBXV3A	\Public Studies\NHANES\laboratory\volatile compounds\Blood 1,1,1-Trichloroethane (ng/mL)\	N
+LBXV3B	\Public Studies\NHANES\laboratory\volatile compounds\Blood 1,3-Dichlorobenzene (ng/mL)\	T
+LBXV4A	\Public Studies\NHANES\laboratory\volatile compounds\Blood 1,1,2-Trichloroethane (ng/mL)\	T
+LBXV4C	\Public Studies\NHANES\laboratory\volatile compounds\Blood Tetrachloroethene (ng/mL)\	N
+LBXV4E	\Public Studies\NHANES\laboratory\volatile compounds\Blood 1,1,2,2-Tetrachloroethane (ng/mL)\	T
+LBXV4T	\Public Studies\NHANES\laboratory\volatile compounds\Blood 1,1,2,2-Tetrachloroethane (ng/mL)\	T
+LBXVAR	\Public Studies\NHANES\laboratory\bacterial infection\Varicella\	N
+LBXVB6	\Public Studies\NHANES\laboratory\nutrients\Vitamin B6(Pyridoxal 5-phosphate)nmol/L\	T
+LBXVBF	\Public Studies\NHANES\laboratory\volatile compounds\Blood Bromoform (pg/mL)\	N
+LBXVBM	\Public Studies\NHANES\laboratory\volatile compounds\Blood Bromodichloromethane (pg/mL)\	N
+LBXVBZ	\Public Studies\NHANES\laboratory\volatile compounds\Blood Benzene (ng/mL)\	N
+LBXVCB	\Public Studies\NHANES\laboratory\volatile compounds\Blood Chlorobenzene (ng/mL)\	T
+LBXVCF	\Public Studies\NHANES\laboratory\volatile compounds\Blood Chloroform (pg/mL)\	N
+LBXVCM	\Public Studies\NHANES\laboratory\volatile compounds\Blood Dibromochloromethane (pg/mL)\	N
+LBXVCT	\Public Studies\NHANES\laboratory\volatile compounds\Blood Carbon Tetrachloride (ng/mL)\	N
+LBXVDB	\Public Studies\NHANES\laboratory\volatile compounds\Blood 1,4-Dichlorobenzene (ng/mL)\	N
+LBXVDM	\Public Studies\NHANES\laboratory\volatile compounds\Blood Dibromomethane (ng/mL)\	T
+LBXVDP	\Public Studies\NHANES\laboratory\volatile compounds\Blood 1,2-Dichloropropane (ng/mL)\	T
+LBXVEB	\Public Studies\NHANES\laboratory\volatile compounds\Blood Ethylbenzene (ng/mL)\	N
+LBXVHE	\Public Studies\NHANES\laboratory\volatile compounds\Blood Hexachloroethane (ng/mL)\	T
+LBXVIA	\Public Studies\NHANES\laboratory\nutrients\Retinol(ug/dL)\	N
+LBXVIC	\Public Studies\NHANES\laboratory\nutrients\Vitamin C (mg/dL)\	T
+LBXVID	\Public Studies\NHANES\laboratory\nutrients\Vitamin D (ng/mL)\	T
+LBXVIE	\Public Studies\NHANES\laboratory\nutrients\a-Tocopherol(ug/dL)\	N
+LBXVMC	\Public Studies\NHANES\laboratory\volatile compounds\Blood Methylene Chloride (ng/mL)\	T
+LBXVME	\Public Studies\NHANES\laboratory\volatile compounds\Blood MTBE (pg/mL)\	N
+LBXVNB	\Public Studies\NHANES\laboratory\volatile compounds\Blood Nitrobenezene (ng/mL)\	T
+LBXVOX	\Public Studies\NHANES\laboratory\volatile compounds\Blood o-Xylene (ng/mL)\	N
+LBXVST	\Public Studies\NHANES\laboratory\volatile compounds\Blood Styrene (ng/mL)\	N
+LBXVTC	\Public Studies\NHANES\laboratory\volatile compounds\Blood Trichloroethene (ng/mL)\	N
+LBXVTE	\Public Studies\NHANES\laboratory\volatile compounds\Blood 1,1,1-Trichloroethane (ng/mL)\	T
+LBXVTO	\Public Studies\NHANES\laboratory\volatile compounds\Blood Toluene (ng/mL)\	N
+LBXVXY	\Public Studies\NHANES\laboratory\volatile compounds\Blood m-/p-Xylene (ng/mL)\	N
+LBXW11	\Public Studies\NHANES\laboratory\allergen test\Thistle IgE antibody (kU/L)\	T
+LBXWBCSI	\Public Studies\NHANES\laboratory\blood\White blood cell count (1000 cells/uL)\	N
+LBXWBF	\Public Studies\NHANES\laboratory\volatile compounds\Water Bromoform (ng/mL)\	N
+LBXWBM	\Public Studies\NHANES\laboratory\volatile compounds\Water Bromodichloromethane (ng/mL)\	N
+LBXWCF	\Public Studies\NHANES\laboratory\volatile compounds\Water Chloroform (ng/mL)\	N
+LBXWCM	\Public Studies\NHANES\laboratory\volatile compounds\Water Dibromochloromethane (ng/mL)\	N
+LBXWIO	\Public Studies\NHANES\laboratory\perchlorate\Iodide, water (ng/mL)\	T
+LBXWME	\Public Studies\NHANES\laboratory\volatile compounds\Water MTBE (ng/mL)\	N
+LBXWNO	\Public Studies\NHANES\laboratory\perchlorate\Nitrate, water (ng/mL)\	T
+LBXWP8	\Public Studies\NHANES\laboratory\perchlorate\Perchlorate, water (ng/mL)\	T
+LBXZBZ	\Public Studies\NHANES\laboratory\volatile compounds\Benzene (ug/cubic meter)\	N
+LBXZCF	\Public Studies\NHANES\laboratory\volatile compounds\Chloroform (ug/cubic meter)\	N
+LBXZDB	\Public Studies\NHANES\laboratory\volatile compounds\1,4-dichlorobenzene (ug/cubic meter)\	N
+LBXZEA	\Public Studies\NHANES\laboratory\nutrients\Zeaxanthin(ug/dL)\	T
+LBXZEB	\Public Studies\NHANES\laboratory\volatile compounds\Ethylbenzene (ug/cubic meter)\	N
+LBXZMB	\Public Studies\NHANES\laboratory\volatile compounds\MTBE (ug/cubic meter)\	N
+LBXZOX	\Public Studies\NHANES\laboratory\volatile compounds\o-Xylene (ug/cubic meter)\	N
+LBXZTE	\Public Studies\NHANES\laboratory\volatile compounds\Tetrachloroethene (ug/cubic meter)\	N
+LBXZTI	\Public Studies\NHANES\laboratory\volatile compounds\Trichloroethene (ug/cubic meter)\	N
+LBXZTO	\Public Studies\NHANES\laboratory\volatile compounds\Toluene (ug/cubic meter)\	N
+LBXZXY	\Public Studies\NHANES\laboratory\volatile compounds\m,p-Xylene (ug/cubic meter)\	N
+LEUCINE_mg	\Public Studies\NHANES\questionnaire\supplement use\LEUCINE_mg\	N
+leukemia_self_report	\Public Studies\NHANES\questionnaire\disease\leukemia_self_report\	N
+LEVOTHYROXINE	\Public Studies\NHANES\questionnaire\pharmaceutical\LEVOTHYROXINE\	T
+LEVOTHYROXINE_SODIUM	\Public Studies\NHANES\questionnaire\pharmaceutical\LEVOTHYROXINE_SODIUM\	N
+LISINOPRIL	\Public Studies\NHANES\questionnaire\pharmaceutical\LISINOPRIL\	N
+lite_salt	\Public Studies\NHANES\questionnaire\food component recall\Light Salt\	T
+liver_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\liver_cancer_self_report\	N
+LORATADINE	\Public Studies\NHANES\questionnaire\pharmaceutical\LORATADINE\	N
+LORATADINE__PSEUDOEPHEDRINE_SULFATE	\Public Studies\NHANES\questionnaire\pharmaceutical\LORATADINE__PSEUDOEPHEDRINE_SULFATE\	N
+LORAZEPAM	\Public Studies\NHANES\questionnaire\pharmaceutical\LORAZEPAM\	N
+LOSARTAN	\Public Studies\NHANES\questionnaire\pharmaceutical\LOSARTAN\	T
+LOSARTAN_POTASSIUM	\Public Studies\NHANES\questionnaire\pharmaceutical\LOSARTAN_POTASSIUM\	N
+LOVASTATIN	\Public Studies\NHANES\questionnaire\pharmaceutical\LOVASTATIN\	T
+lung_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\lung_cancer_self_report\	N
+lymphoma_self_report	\Public Studies\NHANES\questionnaire\disease\lymphoma_self_report\	N
+LYSINE_mg	\Public Studies\NHANES\questionnaire\supplement use\LYSINE_mg\	N
+MAGNESIUM_mg	\Public Studies\NHANES\questionnaire\supplement use\MAGNESIUM_mg\	N
+MAGNESIUM_PPM	\Public Studies\NHANES\questionnaire\supplement use\MAGNESIUM_PPM\	N
+MAGNESIUM_Unknown	\Public Studies\NHANES\questionnaire\supplement use\MAGNESIUM_Unknown\	T
+MDIS	\Public Studies\NHANES\examination\blood pressure\mean diastolic\	N
+MECLIZINE_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\MECLIZINE_HYDROCHLORIDE\	N
+MEDROXYPROGESTERONE_ACETATE	\Public Studies\NHANES\questionnaire\pharmaceutical\MEDROXYPROGESTERONE_ACETATE\	N
+melanoma_self_report	\Public Studies\NHANES\questionnaire\disease\melanoma_self_report\	N
+METFORMIN	\Public Studies\NHANES\questionnaire\pharmaceutical\METFORMIN\	T
+METFORMIN_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\METFORMIN_HYDROCHLORIDE\	N
+METHIONINE_mg	\Public Studies\NHANES\questionnaire\supplement use\METHIONINE_mg\	N
+METHYLPHENIDATE	\Public Studies\NHANES\questionnaire\pharmaceutical\METHYLPHENIDATE\	T
+METHYLPHENIDATE_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\METHYLPHENIDATE_HYDROCHLORIDE\	N
+METOPROLOL	\Public Studies\NHANES\questionnaire\pharmaceutical\METOPROLOL\	T
+METOPROLOL_SUCCINATE	\Public Studies\NHANES\questionnaire\pharmaceutical\METOPROLOL_SUCCINATE\	N
+METOPROLOL_TARTRATE	\Public Studies\NHANES\questionnaire\pharmaceutical\METOPROLOL_TARTRATE\	N
+METOPROLOL_UNSPECIFIED	\Public Studies\NHANES\questionnaire\pharmaceutical\METOPROLOL_UNSPECIFIED\	T
+MOMETASONE_FUROATE_MONOHYDRATE	\Public Studies\NHANES\questionnaire\pharmaceutical\MOMETASONE_FUROATE_MONOHYDRATE\	T
+MOMETASONE_NASAL	\Public Studies\NHANES\questionnaire\pharmaceutical\MOMETASONE_NASAL\	T
+MONTELUKAST	\Public Studies\NHANES\questionnaire\pharmaceutical\MONTELUKAST\	T
+MONTELUKAST_SODIUM	\Public Studies\NHANES\questionnaire\pharmaceutical\MONTELUKAST_SODIUM\	N
+mouth_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\mouth_cancer_self_report\	N
+MSYS	\Public Studies\NHANES\examination\blood pressure\mean systolic\	N
+NAPROXEN	\Public Studies\NHANES\questionnaire\pharmaceutical\NAPROXEN\	N
+nervous_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\nervous_cancer_self_report\	N
+NIFEDIPINE	\Public Studies\NHANES\questionnaire\pharmaceutical\NIFEDIPINE\	N
+NITROGLYCERIN	\Public Studies\NHANES\questionnaire\pharmaceutical\NITROGLYCERIN\	N
+no_salt	\Public Studies\NHANES\questionnaire\food component recall\No Salt\	T
+num_months_longest_job	\Public Studies\NHANES\questionnaire\occupation\num_months_longest_job\	N
+num_months_main_job	\Public Studies\NHANES\questionnaire\occupation\num_months_main_job\	N
+number_close_friends	\Public Studies\NHANES\questionnaire\social support\number_close_friends\	N
+occupation	\Public Studies\NHANES\questionnaire\occupation\occupation (never, blue-semi, blue-high, white-semi, white-high)\	T
+occupation_construction	\Public Studies\NHANES\questionnaire\occupation\occupation_construction\	T
+occupation_farm	\Public Studies\NHANES\questionnaire\occupation\occupation_farm\	T
+occupation_household	\Public Studies\NHANES\questionnaire\occupation\occupation_household\	N
+occupation_laborer	\Public Studies\NHANES\questionnaire\occupation\occupation_laborer\	T
+occupation_midmanage	\Public Studies\NHANES\questionnaire\occupation\occupation_midmanage\	N
+occupation_military	\Public Studies\NHANES\questionnaire\occupation\occupation_military\	T
+occupation_repair	\Public Studies\NHANES\questionnaire\occupation\occupation_repair\	T
+occupation_transport	\Public Studies\NHANES\questionnaire\occupation\occupation_transport\	T
+old_paint_scraped	\Public Studies\NHANES\questionnaire\housing\old paint scraping\	N
+OMEGA_3_FATTY_ACIDS_mg	\Public Studies\NHANES\questionnaire\supplement use\OMEGA_3_FATTY_ACIDS_mg\	N
+OMEGA_3_FATTY_ACIDS_Unknown	\Public Studies\NHANES\questionnaire\supplement use\OMEGA_3_FATTY_ACIDS_Unknown\	T
+OMEGA_6_FATTY_ACIDS_mg	\Public Studies\NHANES\questionnaire\supplement use\OMEGA_6_FATTY_ACIDS_mg\	T
+OMEGA_6_FATTY_ACIDS_NA	\Public Studies\NHANES\questionnaire\supplement use\OMEGA_6_FATTY_ACIDS_NA\	N
+OMEGA_9_FATTY_ACIDS_mg	\Public Studies\NHANES\questionnaire\supplement use\OMEGA_9_FATTY_ACIDS_mg\	T
+OMEGA_9_FATTY_ACIDS_NA	\Public Studies\NHANES\questionnaire\supplement use\OMEGA_9_FATTY_ACIDS_NA\	N
+OMEPRAZOLE	\Public Studies\NHANES\questionnaire\pharmaceutical\OMEPRAZOLE\	N
+ordinary_salt	\Public Studies\NHANES\questionnaire\food component recall\Ordinary Salt\	T
+other_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\other_cancer_self_report\	N
+OTHER_FATTY_ACIDS_mg	\Public Studies\NHANES\questionnaire\supplement use\OTHER_FATTY_ACIDS_mg\	T
+OTHER_FATTY_ACIDS_NA	\Public Studies\NHANES\questionnaire\supplement use\OTHER_FATTY_ACIDS_NA\	N
+OTHER_OMEGA_3_FATTY_ACIDS_NA	\Public Studies\NHANES\questionnaire\supplement use\OTHER_OMEGA_3_FATTY_ACIDS_NA\	N
+other_skin_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\other_skin_cancer_self_report\	N
+ovarian_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\ovarian_cancer_self_report\	N
+OXYBUTYNIN	\Public Studies\NHANES\questionnaire\pharmaceutical\OXYBUTYNIN\	T
+paint_chipping_inside	\Public Studies\NHANES\questionnaire\housing\paint chipping inside\	N
+paint_chipping_outside	\Public Studies\NHANES\questionnaire\housing\paint chipping outside\	N
+pancreatic_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\pancreatic_cancer_self_report\	N
+PANTOPRAZOLE	\Public Studies\NHANES\questionnaire\pharmaceutical\PANTOPRAZOLE\	T
+PANTOPRAZOLE_SODIUM	\Public Studies\NHANES\questionnaire\pharmaceutical\PANTOPRAZOLE_SODIUM\	T
+PAROXETINE	\Public Studies\NHANES\questionnaire\pharmaceutical\PAROXETINE\	T
+PAROXETINE_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\PAROXETINE_HYDROCHLORIDE\	N
+PENICILLIN	\Public Studies\NHANES\questionnaire\pharmaceutical\PENICILLIN\	T
+PHAFSTHR	\Public Studies\NHANES\laboratory\biochemistry\Total length of food fast, hours\	T
+PHAFSTMN	\Public Studies\NHANES\laboratory\biochemistry\Total length of food fast, minutes\	T
+PHENYLALANINE_mg	\Public Studies\NHANES\questionnaire\supplement use\PHENYLALANINE_mg\	N
+PHENYTOIN_SODIUM	\Public Studies\NHANES\questionnaire\pharmaceutical\PHENYTOIN_SODIUM\	N
+PHOSPHORUS_mg	\Public Studies\NHANES\questionnaire\supplement use\PHOSPHORUS_mg\	N
+PHOSPHORUS_Trace	\Public Studies\NHANES\questionnaire\supplement use\PHOSPHORUS_Trace\	T
+PHOSPHORUS_Unknown	\Public Studies\NHANES\questionnaire\supplement use\PHOSPHORUS_Unknown\	T
+physical_activity	\Public Studies\NHANES\questionnaire\physical fitness\Physical Activity (MET-based rank)\	N
+PIOGLITAZONE	\Public Studies\NHANES\questionnaire\pharmaceutical\PIOGLITAZONE\	T
+pneu	\Public Studies\NHANES\questionnaire\immunization\pneumonia\	N
+POLYETHYLENE_GLYCOL_3350	\Public Studies\NHANES\questionnaire\pharmaceutical\POLYETHYLENE_GLYCOL_3350\	T
+POTASSIUM_CHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\POTASSIUM_CHLORIDE\	N
+POTASSIUM_mg	\Public Studies\NHANES\questionnaire\supplement use\POTASSIUM_mg\	N
+PRAVASTATIN	\Public Studies\NHANES\questionnaire\pharmaceutical\PRAVASTATIN\	T
+PRAVASTATIN_SODIUM	\Public Studies\NHANES\questionnaire\pharmaceutical\PRAVASTATIN_SODIUM\	N
+PREDNISONE	\Public Studies\NHANES\questionnaire\pharmaceutical\PREDNISONE\	N
+private_water_source	\Public Studies\NHANES\questionnaire\housing\private water source\	N
+PROLINE_mg	\Public Studies\NHANES\questionnaire\supplement use\PROLINE_mg\	N
+PROPRANOLOL	\Public Studies\NHANES\questionnaire\pharmaceutical\PROPRANOLOL\	T
+PROPRANOLOL_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\PROPRANOLOL_HYDROCHLORIDE\	N
+prostate_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\prostate_cancer_self_report\	N
+PROTEIN_gm	\Public Studies\NHANES\questionnaire\supplement use\PROTEIN_gm\	N
+quantity_drink_per_day	\Public Studies\NHANES\questionnaire\alcohol use\drink per day\	N
+QUINAPRIL	\Public Studies\NHANES\questionnaire\pharmaceutical\QUINAPRIL\	T
+QUINAPRIL_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\QUINAPRIL_HYDROCHLORIDE\	N
+RABEPRAZOLE	\Public Studies\NHANES\questionnaire\pharmaceutical\RABEPRAZOLE\	T
+RABEPRAZOLE_SODIUM	\Public Studies\NHANES\questionnaire\pharmaceutical\RABEPRAZOLE_SODIUM\	T
+RACE	\Public Studies\NHANES\demographics\RACE\	T
+RALOXIFENE_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\RALOXIFENE_HYDROCHLORIDE\	T
+RAMIPRIL	\Public Studies\NHANES\questionnaire\pharmaceutical\RAMIPRIL\	T
+RANITIDINE	\Public Studies\NHANES\questionnaire\pharmaceutical\RANITIDINE\	T
+RANITIDINE_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\RANITIDINE_HYDROCHLORIDE\	N
+rectum_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\rectum_cancer_self_report\	N
+RHQ510	\Public Studies\NHANES\questionnaire\pharmaceutical\Used DepoProvera or injectables?\	N
+RHQ520	\Public Studies\NHANES\questionnaire\pharmaceutical\Now use DepoProvera or injectables?\	N
+RHQ540	\Public Studies\NHANES\questionnaire\pharmaceutical\Ever use female hormones?\	N
+RHQ554	\Public Studies\NHANES\questionnaire\pharmaceutical\Use hormone pills w/estrogen only\	N
+RHQ556	\Public Studies\NHANES\questionnaire\pharmaceutical\Age started estrogen-only pills\	N
+RHQ558	\Public Studies\NHANES\questionnaire\pharmaceutical\Taking estrogen-only pills now?\	N
+RHQ562	\Public Studies\NHANES\questionnaire\pharmaceutical\Used hormone pills w/progestin only\	N
+RHQ564	\Public Studies\NHANES\questionnaire\pharmaceutical\Age started progestin-only pills\	T
+RHQ566	\Public Studies\NHANES\questionnaire\pharmaceutical\Taking progestin only pills now?\	T
+RHQ570	\Public Studies\NHANES\questionnaire\pharmaceutical\Used estrogen/progestin combo pills\	N
+RHQ572	\Public Studies\NHANES\questionnaire\pharmaceutical\Age started estrogen/progestin pills\	T
+RHQ574	\Public Studies\NHANES\questionnaire\pharmaceutical\Taking estrogen/progestin now?\	T
+RHQ580	\Public Studies\NHANES\questionnaire\pharmaceutical\Used estrogen-only patches?\	T
+RHQ582	\Public Studies\NHANES\questionnaire\pharmaceutical\Age started estrogen-only patches\	T
+RHQ584	\Public Studies\NHANES\questionnaire\pharmaceutical\Using estrogen-only patches now?\	T
+RHQ596	\Public Studies\NHANES\questionnaire\pharmaceutical\Used estrogen/progestin combo patches?\	T
+RHQ598	\Public Studies\NHANES\questionnaire\pharmaceutical\Age started estrogen/progestin patches\	T
+RHQ600	\Public Studies\NHANES\questionnaire\pharmaceutical\Using estrogen/progestin patches now?\	T
+RIBOFLAVIN_mg	\Public Studies\NHANES\questionnaire\supplement use\RIBOFLAVIN_mg\	N
+RIBOFLAVIN_Unknown	\Public Studies\NHANES\questionnaire\supplement use\RIBOFLAVIN_Unknown\	T
+ROFECOXIB	\Public Studies\NHANES\questionnaire\pharmaceutical\ROFECOXIB\	N
+ROSIGLITAZONE	\Public Studies\NHANES\questionnaire\pharmaceutical\ROSIGLITAZONE\	T
+ROSIGLITAZONE_MALEATE	\Public Studies\NHANES\questionnaire\pharmaceutical\ROSIGLITAZONE_MALEATE\	T
+SALMETEROL_XINAFOATE	\Public Studies\NHANES\questionnaire\pharmaceutical\SALMETEROL_XINAFOATE\	N
+salt_substitute	\Public Studies\NHANES\questionnaire\food component recall\Salt Substitute\	T
+SDDSRVYR	\Public Studies\NHANES\demographics\SDDSRVYR\	N
+SDMVPSU	\Public Studies\NHANES\demographics\SDMVPSU\	N
+SDMVSTRA	\Public Studies\NHANES\demographics\SDMVSTRA\	N
+SELENIUM_mcg	\Public Studies\NHANES\questionnaire\supplement use\SELENIUM_mcg\	N
+SELENIUM_Trace	\Public Studies\NHANES\questionnaire\supplement use\SELENIUM_Trace\	T
+SELENIUM_Unknown	\Public Studies\NHANES\questionnaire\supplement use\SELENIUM_Unknown\	T
+SERINE_mg	\Public Studies\NHANES\questionnaire\supplement use\SERINE_mg\	N
+SERTRALINE	\Public Studies\NHANES\questionnaire\pharmaceutical\SERTRALINE\	T
+SERTRALINE_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\SERTRALINE_HYDROCHLORIDE\	N
+SES_LEVEL	\Public Studies\NHANES\demographics\SES_LEVEL\	N
+SEX	\Public Studies\NHANES\demographics\SEX\	T
+SIMVASTATIN	\Public Studies\NHANES\questionnaire\pharmaceutical\SIMVASTATIN\	N
+skin_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\skin_cancer_self_report\	N
+SMD030	\Public Studies\NHANES\questionnaire\smoking behavior\Age started smoking cigarettes regularly\	N
+SMD055	\Public Studies\NHANES\questionnaire\smoking behavior\Age last smoked cigarettes regularly\	N
+SMD057	\Public Studies\NHANES\questionnaire\smoking behavior\# cigarettes smoked per day when quit\	N
+SMD070	\Public Studies\NHANES\questionnaire\smoking behavior\# cigarettes smoked per day now\	N
+SMD075	\Public Studies\NHANES\questionnaire\smoking behavior\How many years smoked this amount\	N
+SMD080	\Public Studies\NHANES\questionnaire\smoking behavior\# days smoked cigs during past 30 days\	N
+SMD090	\Public Studies\NHANES\questionnaire\smoking behavior\Avg # cigarettes/day during past 30 days\	N
+SMD100CO	\Public Studies\NHANES\questionnaire\smoking behavior\FTC Carbon Monoxide Content\	N
+SMD100FL	\Public Studies\NHANES\questionnaire\smoking behavior\Filter type\	N
+SMD100MN	\Public Studies\NHANES\questionnaire\smoking behavior\Menthol indicator\	N
+SMD100NI	\Public Studies\NHANES\questionnaire\smoking behavior\FTC Nicotine Content\	N
+SMD100TR	\Public Studies\NHANES\questionnaire\smoking behavior\FTC Tar Content\	N
+SMD130	\Public Studies\NHANES\questionnaire\smoking behavior\Age started pipe smoking regularly\	N
+SMD160	\Public Studies\NHANES\questionnaire\smoking behavior\Age started cigar smoking regularly\	N
+SMD190	\Public Studies\NHANES\questionnaire\smoking behavior\Age started using snuff regularly\	T
+SMD220	\Public Studies\NHANES\questionnaire\smoking behavior\Age started chewing tobacco regularly\	T
+SMD235	\Public Studies\NHANES\questionnaire\smoking behavior\# years used this chewing tobacco amount\	T
+SMD410	\Public Studies\NHANES\questionnaire\smoking family\Does anyone smoke in home?\	N
+SMD415	\Public Studies\NHANES\questionnaire\smoking family\Total number of smokers in home\	N
+SMD415A	\Public Studies\NHANES\questionnaire\smoking family\Total # of cigarette smokers in home\	N
+SMD415B	\Public Studies\NHANES\questionnaire\smoking family\Total # of cigar smokers in home\	N
+SMD415C	\Public Studies\NHANES\questionnaire\smoking family\Total # of pipe smokers in home\	T
+SMD430	\Public Studies\NHANES\questionnaire\smoking family\Total # of cigarettes smoked in home\	N
+SMD440	\Public Studies\NHANES\questionnaire\smoking family\Total # cigars smoked in home\	N
+SMD450	\Public Studies\NHANES\questionnaire\smoking family\Total # of pipes smoked in home\	T
+SMD641	\Public Studies\NHANES\questionnaire\smoking behavior\# days smoked cigs during past 30 days\	T
+SMD650	\Public Studies\NHANES\questionnaire\smoking behavior\Avg # cigarettes/day during past 30 days\	T
+smell_tobacco	\Public Studies\NHANES\questionnaire\occupation\smell_tobacco\	N
+SMQ020	\Public Studies\NHANES\questionnaire\smoking behavior\Smoked at least 100 cigarettes in life\	N
+SMQ040	\Public Studies\NHANES\questionnaire\smoking behavior\Do you now smoke cigarettes...\	N
+SMQ050	\Public Studies\NHANES\questionnaire\smoking behavior\number of days since quit\	N
+SMQ077	\Public Studies\NHANES\questionnaire\smoking behavior\How soon after waking do you smoke\	T
+SMQ120	\Public Studies\NHANES\questionnaire\smoking behavior\Smoked a pipe at least 20 times in life\	N
+SMQ150	\Public Studies\NHANES\questionnaire\smoking behavior\Smoked cigars at least 20 times in life\	N
+SMQ180	\Public Studies\NHANES\questionnaire\smoking behavior\Used snuff at least 20 times in life\	N
+SMQ210	\Public Studies\NHANES\questionnaire\smoking behavior\Used chewing tobacco 20 times in life\	N
+SMQ230	\Public Studies\NHANES\questionnaire\smoking behavior\Do you now use chewing tobacco\	T
+SODIUM_mg	\Public Studies\NHANES\questionnaire\supplement use\SODIUM_mg\	N
+SODIUM_Trace	\Public Studies\NHANES\questionnaire\supplement use\SODIUM_Trace\	T
+soft_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\soft_cancer_self_report\	N
+SPIRONOLACTONE	\Public Studies\NHANES\questionnaire\pharmaceutical\SPIRONOLACTONE\	N
+spring_water	\Public Studies\NHANES\questionnaire\food component recall\Spring Water\	T
+SSMEL	\Public Studies\NHANES\laboratory\melamine\Melamine\	T
+stomach_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\stomach_cancer_self_report\	N
+SUBJ_ID	SUBJECT_ID	N
+SULFAMETHOXAZOLE__TRIMETHOPRIM	\Public Studies\NHANES\questionnaire\pharmaceutical\SULFAMETHOXAZOLE__TRIMETHOPRIM\	N
+supplement_count	\Public Studies\NHANES\questionnaire\supplement use\total supplement count\	N
+SXQ020	\Public Studies\NHANES\questionnaire\sexual behavior\Ever had sexual intercourse\	N
+SXQ260	\Public Studies\NHANES\questionnaire\viral infection\Doctor ever told you had genital herpes\	N
+SXQ265	\Public Studies\NHANES\questionnaire\viral infection\Doctor ever told you had genital warts\	N
+SXQ270	\Public Studies\NHANES\questionnaire\bacterial infection\Doctor ever told you had gonorrhea\	N
+SXQ280	\Public Studies\NHANES\questionnaire\sexual behavior\Are you circumcised or uncircumcised\	N
+taking_birth_control	\Public Studies\NHANES\questionnaire\pharmaceutical\taking_birth_control\	N
+TAMSULOSIN	\Public Studies\NHANES\questionnaire\pharmaceutical\TAMSULOSIN\	T
+TBQ020	\Public Studies\NHANES\questionnaire\bacterial infection\Ever told had positive TB skin test\	N
+TBQ030	\Public Studies\NHANES\questionnaire\bacterial infection\Prescribed medicine for preventing TB\	N
+TBQ040	\Public Studies\NHANES\questionnaire\bacterial infection\Ever told you had active TB\	N
+TBQ050	\Public Studies\NHANES\questionnaire\bacterial infection\Prescribed medicine for active TB\	T
+TBQ060	\Public Studies\NHANES\questionnaire\bacterial infection\Lived in household TB sick person\	N
+TELOMEAN	\Public Studies\NHANES\laboratory\aging\Mean Telomere Length\	N
+TELOSTD	\Public Studies\NHANES\laboratory\aging\Telomere SD\	N
+TERAZOSIN	\Public Studies\NHANES\questionnaire\pharmaceutical\TERAZOSIN\	T
+TERAZOSIN_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\TERAZOSIN_HYDROCHLORIDE\	N
+testis_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\testis_cancer_self_report\	N
+THEOPHYLLINE	\Public Studies\NHANES\questionnaire\pharmaceutical\THEOPHYLLINE\	N
+THIAMIN_mg	\Public Studies\NHANES\questionnaire\supplement use\THIAMIN_mg\	N
+THIAMIN_Unknown	\Public Studies\NHANES\questionnaire\supplement use\THIAMIN_Unknown\	T
+THREONINE_mg	\Public Studies\NHANES\questionnaire\supplement use\THREONINE_mg\	N
+thyroid_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\thyroid_cancer_self_report\	N
+TOLTERODINE_TARTRATE	\Public Studies\NHANES\questionnaire\pharmaceutical\TOLTERODINE_TARTRATE\	T
+TOTAL_CARBOHYDRATE_gm	\Public Studies\NHANES\questionnaire\supplement use\TOTAL_CARBOHYDRATE_gm\	N
+total_days_5drink_year	\Public Studies\NHANES\questionnaire\alcohol use\days 5 drinks in year\	N
+total_days_drink_year	\Public Studies\NHANES\questionnaire\alcohol use\days drink in year\	N
+TRAMADOL	\Public Studies\NHANES\questionnaire\pharmaceutical\TRAMADOL\	T
+TRAZODONE	\Public Studies\NHANES\questionnaire\pharmaceutical\TRAZODONE\	T
+TRAZODONE_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\TRAZODONE_HYDROCHLORIDE\	N
+TRIAMCINOLONE_ACETONIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\TRIAMCINOLONE_ACETONIDE\	N
+TRIAMTERENE	\Public Studies\NHANES\questionnaire\pharmaceutical\TRIAMTERENE\	N
+TRYPTOPHAN_mg	\Public Studies\NHANES\questionnaire\supplement use\TRYPTOPHAN_mg\	N
+TYROSINE_mg	\Public Studies\NHANES\questionnaire\supplement use\TYROSINE_mg\	N
+URX14D	\Public Studies\NHANES\laboratory\pesticides\2,5-dichlorophenol (ug/L) result\	N
+URX1TB	\Public Studies\NHANES\laboratory\pesticides\2,4,5-trichlorophenol (ug/L) result\	N
+URX24D	\Public Studies\NHANES\laboratory\pesticides\2,4-D (ug/L) result\	N
+URX25T	\Public Studies\NHANES\laboratory\pesticides\2,4,5-T (ug/L) result\	N
+URX3TB	\Public Studies\NHANES\laboratory\pesticides\2,4,6-trichlorophenol (ug/L) result\	N
+URX4FP	\Public Studies\NHANES\laboratory\pesticides\4-fluoro-3-phenoxybenzoic (ug/L) acid\	N
+URX4TO	\Public Studies\NHANES\laboratory\phenols\Urinary 4-tert-octyl phenol (ng/mL)\	T
+URXAAZ	\Public Studies\NHANES\laboratory\pesticides\Atrazine (ug/L)\	T
+URXACE	\Public Studies\NHANES\laboratory\pesticides\Acetochlor mercapturate (ug/L) result\	T
+URXAPE	\Public Studies\NHANES\laboratory\pesticides\Acephate (ug/L)\	T
+URXATZ	\Public Studies\NHANES\laboratory\pesticides\Atrazine mercapturate (ug/L) result\	N
+URXBP3	\Public Studies\NHANES\laboratory\phenols\Urinary Benzophenone-3 (ng/mL)\	T
+URXBPH	\Public Studies\NHANES\laboratory\phenols\Urinary Bisphenol A (ng/mL)\	T
+URXBSM	\Public Studies\NHANES\laboratory\pesticides\Bensulfuron methyl (ug/L)\	T
+URXBUP	\Public Studies\NHANES\laboratory\phenols\Butyl paraben (ng/ml)\	T
+URXCB3	\Public Studies\NHANES\laboratory\pesticides\dibromovinyl-dimeth prop carboacid(ug/L)\	N
+URXCBF	\Public Studies\NHANES\laboratory\pesticides\Carbofuranphenol (ug/L) result\	N
+URXCCC	\Public Studies\NHANES\laboratory\pesticides\cis dichlorovnl-dimeth carboacid (ug/L)\	N
+URXCHS	\Public Studies\NHANES\laboratory\pesticides\Chlorsulfuron (ug/L)\	T
+URXCMH	\Public Studies\NHANES\laboratory\pesticides\chloro-hydro-meth-chromen-one/ol (ug/L)\	T
+URXCNP	\Public Studies\NHANES\laboratory\phthalates\Mono(carboxynonyl) phthalate (ng/mL)\	T
+URXCOP	\Public Studies\NHANES\laboratory\phthalates\Mono(carboxyoctyl) phthalate(ng/mL)\	T
+URXCPM	\Public Studies\NHANES\laboratory\pesticides\3,5,6-trichloropyridinol (ug/L) result\	N
+URXCRS	\Public Studies\NHANES\laboratory\biochemistry\Creatinine, urine (umol/L)\	T
+URXDAM	\Public Studies\NHANES\laboratory\pesticides\Desethyl atrazine mercapturate (ug/L)\	T
+URXDAZ	\Public Studies\NHANES\laboratory\phytoestrogens\Daidzein (ng/mL)\	N
+URXDCB	\Public Studies\NHANES\laboratory\pesticides\2,4-dichlorophenol (ug/L) result\	T
+URXDCZ	\Public Studies\NHANES\laboratory\pesticides\Diaminochloroatrazine (ug/L)\	T
+URXDEE	\Public Studies\NHANES\laboratory\pesticides\DEET (ug/L)\	N
+URXDIZ	\Public Studies\NHANES\laboratory\pesticides\Oxypyrimidine (ug/L) result\	N
+URXDMA	\Public Studies\NHANES\laboratory\phytoestrogens\o-Desmethylangolensin (O-DMA) (ng/mL)\	N
+URXDPY	\Public Studies\NHANES\laboratory\pesticides\diethylaminomethylpyrimidinol/one (ug/L)\	T
+URXDTZ	\Public Studies\NHANES\laboratory\pesticides\Desethyl atrazine (ug/L)\	T
+URXECP	\Public Studies\NHANES\laboratory\phthalates\Mono-2-ethyl-5-carboxypentyl phthalate\	T
+URXEMM	\Public Studies\NHANES\laboratory\pesticides\Ethametsulfuron methyl (ug/L)\	T
+URXEPB	\Public Studies\NHANES\laboratory\phenols\Ethyl paraben (ng/ml)\	T
+URXEQU	\Public Studies\NHANES\laboratory\phytoestrogens\Equol (ng/mL)\	N
+URXETD	\Public Studies\NHANES\laboratory\phytoestrogens\Enterodiol (ng/mL)\	N
+URXETL	\Public Studies\NHANES\laboratory\phytoestrogens\Enterolactone (ng/mL)\	N
+URXETU	\Public Studies\NHANES\laboratory\pesticides\Ethylenethio urea (ug/L)\	T
+URXFRM	\Public Studies\NHANES\laboratory\pesticides\Foramsulfuron (ug/L)\	T
+URXGNS	\Public Studies\NHANES\laboratory\phytoestrogens\Genistein (ng/mL)\	N
+URXHLS	\Public Studies\NHANES\laboratory\pesticides\Halosulfuron (ug/L)\	T
+URXMAL	\Public Studies\NHANES\laboratory\pesticides\Malathion diacid (ug/L)\	N
+URXMBP	\Public Studies\NHANES\laboratory\phthalates\Mono-n-butyl phthalate\	N
+URXMC1	\Public Studies\NHANES\laboratory\phthalates\Mono-(3-carboxypropyl) phthalate\	T
+URXMCP	\Public Studies\NHANES\laboratory\phthalates\Mono-cyclohexyl phthalate\	N
+URXMEP	\Public Studies\NHANES\laboratory\phthalates\Mono-ethyl phthalate\	N
+URXMET	\Public Studies\NHANES\laboratory\pesticides\Metolachlor mercapturate (ug/L) result\	T
+URXMHH	\Public Studies\NHANES\laboratory\phthalates\Mono-(2-ethyl-5-hydroxyhexyl) phthalate\	T
+URXMHP	\Public Studies\NHANES\laboratory\phthalates\Mono-(2-ethyl)-hexyl phthalate\	N
+URXMIB	\Public Studies\NHANES\laboratory\phthalates\Mono-isobutyl phthalate\	T
+URXMMI	\Public Studies\NHANES\laboratory\pesticides\Methamidaphos (ug/L)\	T
+URXMNM	\Public Studies\NHANES\laboratory\phthalates\Mono-n-methyl phthalate\	T
+URXMNP	\Public Studies\NHANES\laboratory\phthalates\Mono-isononyl phthalate\	N
+URXMOH	\Public Studies\NHANES\laboratory\phthalates\Mono-(2-ethyl-5-oxohexl) phthalate\	T
+URXMOP	\Public Studies\NHANES\laboratory\phthalates\Mono-n-octyl phthalate\	N
+URXMPB	\Public Studies\NHANES\laboratory\phenols\Methyl paraben (ng/ml)\	T
+URXMSM	\Public Studies\NHANES\laboratory\pesticides\Mesosulfuron methyl (ug/L)\	T
+URXMTM	\Public Studies\NHANES\laboratory\pesticides\Metsulfuron methyl (ug/L)\	T
+URXMTO	\Public Studies\NHANES\laboratory\pesticides\Dimethoate (ug/L)\	T
+URXMZP	\Public Studies\NHANES\laboratory\phthalates\Mono-benzyl phthalate\	N
+URXNO3	\Public Studies\NHANES\laboratory\perchlorate\Urinary nitrate (ng/mL)\	T
+URXNOS	\Public Studies\NHANES\laboratory\pesticides\Nicosulfuron (ug/L)\	T
+URXNT	\Public Studies\NHANES\laboratory\biochemistry\N-Telopeptides (nmol BCE)\	N
+URXOMO	\Public Studies\NHANES\laboratory\pesticides\O-methoate (ug/L)\	T
+URXOP1	\Public Studies\NHANES\laboratory\diakyl\Dimethylphosphate (ug/L)\	N
+URXOP2	\Public Studies\NHANES\laboratory\diakyl\Diethylphosphate (ug/L)\	N
+URXOP3	\Public Studies\NHANES\laboratory\diakyl\Dimethylthiophosphate (ug/L)\	N
+URXOP4	\Public Studies\NHANES\laboratory\diakyl\Diethylthiophosphate (ug/L)\	N
+URXOP5	\Public Studies\NHANES\laboratory\diakyl\Dimethyldithiophosphate (ug/L)\	N
+URXOP6	\Public Studies\NHANES\laboratory\diakyl\Diethyldithiophosphate (ug/L)\	N
+URXOPM	\Public Studies\NHANES\laboratory\diakyl\3-phenoxybenzoic (ug/L) acid result\	N
+URXOPP	\Public Studies\NHANES\laboratory\pesticides\O-Phenyl phenol (ug/L) result\	N
+URXOXS	\Public Studies\NHANES\laboratory\pesticides\Oxasulfuron (ug/L)\	T
+URXP01	\Public Studies\NHANES\laboratory\hydrocarbons\1-napthol (ng/L)\	T
+URXP02	\Public Studies\NHANES\laboratory\hydrocarbons\2-napthol (ng/L)\	T
+URXP03	\Public Studies\NHANES\laboratory\hydrocarbons\3-fluorene (ng/L)\	N
+URXP04	\Public Studies\NHANES\laboratory\hydrocarbons\2-fluorene (ng/L)\	N
+URXP05	\Public Studies\NHANES\laboratory\hydrocarbons\3-phenanthrene (ng/L)\	N
+URXP06	\Public Studies\NHANES\laboratory\hydrocarbons\1-phenanthrene (ng/L)\	N
+URXP07	\Public Studies\NHANES\laboratory\hydrocarbons\2-phenanthrene (ng/L)\	N
+URXP08	\Public Studies\NHANES\laboratory\hydrocarbons\1-benzo[c] phenanthrene (ng/L)\	N
+URXP09	\Public Studies\NHANES\laboratory\hydrocarbons\3-fluoranthene (ng/L)\	N
+URXP10	\Public Studies\NHANES\laboratory\hydrocarbons\1-pyrene (ng/L)\	N
+URXP11	\Public Studies\NHANES\laboratory\hydrocarbons\2-benzo[c] phenanthrene (ng/L)\	N
+URXP12	\Public Studies\NHANES\laboratory\hydrocarbons\1-benzo[a] anthracene (ng/L)\	N
+URXP13	\Public Studies\NHANES\laboratory\hydrocarbons\6-chrysene (ng/L)\	N
+URXP14	\Public Studies\NHANES\laboratory\hydrocarbons\3-benzo[c] phenanthrene (ng/L)\	N
+URXP15	\Public Studies\NHANES\laboratory\hydrocarbons\3-chrysene (ng/L)\	N
+URXP16	\Public Studies\NHANES\laboratory\hydrocarbons\3-benz[a] anthracene (ng/L)\	N
+URXP17	\Public Studies\NHANES\laboratory\hydrocarbons\9-fluorene (ng/L)\	T
+URXP18	\Public Studies\NHANES\laboratory\hydrocarbons\9-phenanthrene\	T
+URXP19	\Public Studies\NHANES\laboratory\hydrocarbons\4-phenanthrene (ng/L)\	T
+URXP20	\Public Studies\NHANES\laboratory\hydrocarbons\1-chrysene (ng/L)\	T
+URXP21	\Public Studies\NHANES\laboratory\hydrocarbons\2-chrysene (ng/L)\	T
+URXP22	\Public Studies\NHANES\laboratory\hydrocarbons\4-chrysene (ng/L)\	T
+URXP24	\Public Studies\NHANES\laboratory\hydrocarbons\3-benzo(a) pyrene (ng/L)\	T
+URXPAR	\Public Studies\NHANES\laboratory\pesticides\Paranitrophenol (ug/L) result\	N
+URXPCP	\Public Studies\NHANES\laboratory\pesticides\Pentachlorophenol (ug/L) result\	N
+URXPIM	\Public Studies\NHANES\laboratory\pesticides\Primisulfuron methyl (ug/L)\	T
+URXPPB	\Public Studies\NHANES\laboratory\phenols\Propyl paraben (ng/ml)\	T
+URXPPX	\Public Studies\NHANES\laboratory\phenols\2-isopropoxyphenol (ug/L) result\	N
+URXPRO	\Public Studies\NHANES\laboratory\pesticides\Prosulfuron (ug/L)\	T
+URXPTU	\Public Studies\NHANES\laboratory\pesticides\Propylenethio urea (ug/L)\	T
+URXRIM	\Public Studies\NHANES\laboratory\pesticides\Rimsulfuron (ug/L)\	T
+URXSCN	\Public Studies\NHANES\laboratory\perchlorate\Urinary thiocyanate (ng/mL)\	T
+URXSIS	\Public Studies\NHANES\laboratory\pesticides\Desisopropryl atrazine (ug/L)\	T
+URXSMM	\Public Studies\NHANES\laboratory\pesticides\Sulfometuron methyl (ug/L)\	T
+URXSSF	\Public Studies\NHANES\laboratory\pesticides\Sulfosulfuron (ug/L)\	T
+URXTCC	\Public Studies\NHANES\laboratory\pesticides\dichlorovnl-dimeth prop carboacid (ug/L)\	N
+URXTHF	\Public Studies\NHANES\laboratory\pesticides\Thifensulfuron methyl (ug/L)\	T
+URXTRA	\Public Studies\NHANES\laboratory\pesticides\Triasulfuron (ug/L)\	T
+URXTRN	\Public Studies\NHANES\laboratory\pesticides\Triflusulfuron methyl (ug/L)\	T
+URXTRS	\Public Studies\NHANES\laboratory\pesticides\Urinary Triclosan (ng/mL)\	T
+URXUAB	\Public Studies\NHANES\laboratory\heavy metals\Urinary Arsenobetaine (ug/L)\	T
+URXUAC	\Public Studies\NHANES\laboratory\heavy metals\Urinary Arsenocholine (ug/L)\	T
+URXUAS	\Public Studies\NHANES\laboratory\heavy metals\Urinary total Arsenic (ug/L)\	T
+URXUAS3	\Public Studies\NHANES\laboratory\heavy metals\Urinary Arsenous acid (ug/L)\	T
+URXUAS5	\Public Studies\NHANES\laboratory\heavy metals\Urinary Arsenic acid (ug/L)\	T
+URXUBA	\Public Studies\NHANES\laboratory\heavy metals\Barium, urine (ng/mL)\	N
+URXUBE	\Public Studies\NHANES\laboratory\heavy metals\Beryllium, urine (ng/mL)\	N
+URXUCD	\Public Studies\NHANES\laboratory\heavy metals\Cadmium, urine (ng/mL)\	N
+URXUCL	\Public Studies\NHANES\laboratory\bacterial infection\Urinary Chlamydia\	N
+URXUCO	\Public Studies\NHANES\laboratory\heavy metals\Cobalt, urine (ng/mL)\	N
+URXUCR	\Public Studies\NHANES\laboratory\biochemistry\Creatinine, urine (mg/dL)\	N
+URXUCRSI	\Public Studies\NHANES\laboratory\biochemistry\Creatinine, urine (umol/L)\	N
+URXUCS	\Public Studies\NHANES\laboratory\heavy metals\Cesium, urine (ng/mL)\	N
+URXUDMA	\Public Studies\NHANES\laboratory\heavy metals\Urinary Dimethylarsonic acid (ug/L)\	T
+URXUGC	\Public Studies\NHANES\laboratory\bacterial infection\Urinary Gonorrhea\	N
+URXUHG	\Public Studies\NHANES\laboratory\heavy metals\Mercury, urine (ng/mL)\	N
+URXUIO	\Public Studies\NHANES\laboratory\heavy metals\Iodine, urine (ng/mL)\	T
+URXUMA	\Public Studies\NHANES\laboratory\biochemistry\Albumin, urine (ug/mL)\	N
+URXUMASI	\Public Studies\NHANES\laboratory\biochemistry\Albumin, urine (mg/L) SI\	N
+URXUMMA	\Public Studies\NHANES\laboratory\heavy metals\Urinary Monomethylacrsonic acid (ug/L)\	T
+URXUMO	\Public Studies\NHANES\laboratory\heavy metals\Molybdenum, urine (ng/mL)\	N
+URXUMS	\Public Studies\NHANES\laboratory\biochemistry\Albumin, urine (mg/L)\	T
+URXUP8	\Public Studies\NHANES\laboratory\perchlorate\Perchlorate, urine (ng/mL)\	T
+URXUP8CA	\Public Studies\NHANES\laboratory\perchlorate\Urine perchlorate (ug per g creatinine)\	T
+URXUPB	\Public Studies\NHANES\laboratory\heavy metals\Lead, urine (ng/mL)\	N
+URXUPT	\Public Studies\NHANES\laboratory\heavy metals\Platinum, urine (ng/mL)\	N
+URXUSB	\Public Studies\NHANES\laboratory\heavy metals\Antimony, urine (ng/mL)\	N
+URXUTL	\Public Studies\NHANES\laboratory\heavy metals\Thallium, urine (ng/mL)\	N
+URXUTM	\Public Studies\NHANES\laboratory\heavy metals\Urinary Trimethylarsine Oxide (ug/L)\	T
+URXUTU	\Public Studies\NHANES\laboratory\heavy metals\Tungsten, urine (ng/mL)\	N
+URXUUR	\Public Studies\NHANES\laboratory\heavy metals\Uranium, urine (ng/mL)\	T
+use_water_treatment	\Public Studies\NHANES\questionnaire\housing\use water treatment\	N
+uterine_cancer_self_report	\Public Studies\NHANES\questionnaire\disease\uterine_cancer_self_report\	N
+VALDECOXIB	\Public Studies\NHANES\questionnaire\pharmaceutical\VALDECOXIB\	T
+VALINE_mg	\Public Studies\NHANES\questionnaire\supplement use\VALINE_mg\	N
+VALSARTAN	\Public Studies\NHANES\questionnaire\pharmaceutical\VALSARTAN\	N
+VARICELL	\Public Studies\NHANES\laboratory\viral infection\Varicella antibody\	T
+VENLAFAXINE	\Public Studies\NHANES\questionnaire\pharmaceutical\VENLAFAXINE\	T
+VENLAFAXINE_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\VENLAFAXINE_HYDROCHLORIDE\	T
+VERAPAMIL	\Public Studies\NHANES\questionnaire\pharmaceutical\VERAPAMIL\	T
+VERAPAMIL_HYDROCHLORIDE	\Public Studies\NHANES\questionnaire\pharmaceutical\VERAPAMIL_HYDROCHLORIDE\	N
+VITAMIN_A_IU	\Public Studies\NHANES\questionnaire\supplement use\VITAMIN_A_IU\	N
+VITAMIN_A_mcg	\Public Studies\NHANES\questionnaire\supplement use\VITAMIN_A_mcg\	T
+VITAMIN_A_mg	\Public Studies\NHANES\questionnaire\supplement use\VITAMIN_A_mg\	T
+VITAMIN_A_Unknown	\Public Studies\NHANES\questionnaire\supplement use\VITAMIN_A_Unknown\	T
+VITAMIN_B_12_mcg	\Public Studies\NHANES\questionnaire\supplement use\VITAMIN_B_12_mcg\	N
+VITAMIN_B_12_Unknown	\Public Studies\NHANES\questionnaire\supplement use\VITAMIN_B_12_Unknown\	T
+VITAMIN_B_6_mg	\Public Studies\NHANES\questionnaire\supplement use\VITAMIN_B_6_mg\	N
+VITAMIN_B_6_Unknown	\Public Studies\NHANES\questionnaire\supplement use\VITAMIN_B_6_Unknown\	T
+VITAMIN_C_mg	\Public Studies\NHANES\questionnaire\supplement use\VITAMIN_C_mg\	N
+VITAMIN_C_Unknown	\Public Studies\NHANES\questionnaire\supplement use\VITAMIN_C_Unknown\	T
+WARFARIN	\Public Studies\NHANES\questionnaire\pharmaceutical\WARFARIN\	T
+WARFARIN_SODIUM	\Public Studies\NHANES\questionnaire\pharmaceutical\WARFARIN_SODIUM\	N
+well_water	\Public Studies\NHANES\questionnaire\food component recall\Well Water\	T
+WTMEC2YR	\Public Studies\NHANES\demographics\WTMEC2YR\	N
+WTMEC4YR	\Public Studies\NHANES\demographics\WTMEC4YR\	N
+ZOLPIDEM	\Public Studies\NHANES\questionnaire\pharmaceutical\ZOLPIDEM\	T
+ZOLPIDEM_TARTRATE	\Public Studies\NHANES\questionnaire\pharmaceutical\ZOLPIDEM_TARTRATE\	T
+SUBJ_ID	SUBJECT_ID	SUBJECT_ID
+SEX	\Public Studies\NHANES\demographics\SEX\	T
+RACE	\Public Studies\NHANES\demographics\RACE\	T
+AGE	\Public Studies\NHANES\demographics\AGE\	N
